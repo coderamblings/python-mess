@@ -1,0 +1,14 @@
+<zamowienia>
+	<zamowienie>
+		<id_towaru>13</id_towaru>
+		<ilosc>4</ilosc>
+	</zamowienie>
+	<zamowienie>
+		<id_towaru>25</id_towaru>
+		<ilosc>2</ilosc>
+	</zamowienie>
+	<zamowienie>
+		<id_towaru>13</id_towaru>
+		<ilosc>6</ilosc>
+	</zamowienie>
+</zamowienia>

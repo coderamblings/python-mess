@@ -1,0 +1,1067 @@
+Sun Jun 15 09:45:35 2014 [pid 2] CONNECT: Client "146.0.32.163"
+Sat Jun 21 23:32:42 2014 [pid 2] CONNECT: Client "217.75.59.213"
+Sun Jun  8 16:14:25 2014 [pid 2] CONNECT: Client "198.20.69.98"
+Sun Jun  8 16:14:27 2014 [pid 1] [anonymous] FAIL LOGIN: Client "198.20.69.98"
+Sun Jun  8 16:15:12 2014 [pid 2] CONNECT: Client "198.20.69.98"
+Sun Jun  8 16:15:14 2014 [pid 1] [anonymous] FAIL LOGIN: Client "198.20.69.98"
+Sun Jun  8 21:15:37 2014 [pid 2] CONNECT: Client "88.80.15.69"
+Sun Jun  8 21:15:38 2014 [pid 2] CONNECT: Client "88.80.15.69"
+Sun Jun  8 21:16:03 2014 [pid 2] CONNECT: Client "88.80.15.69"
+Sun Jun  8 21:16:05 2014 [pid 1] [Anonymous] FAIL LOGIN: Client "88.80.15.69"
+Sun Jun  8 21:16:06 2014 [pid 2] CONNECT: Client "88.80.15.69"
+Sun Jun  8 21:16:09 2014 [pid 1] [test] FAIL LOGIN: Client "88.80.15.69"
+Sun Jun  8 21:16:10 2014 [pid 2] CONNECT: Client "88.80.15.69"
+Sun Jun  8 21:16:13 2014 [pid 1] [anonymous] FAIL LOGIN: Client "88.80.15.69"
+Sun Jun  8 21:16:15 2014 [pid 2] CONNECT: Client "88.80.15.69"
+Sun Jun  8 21:16:17 2014 [pid 1] [guest] FAIL LOGIN: Client "88.80.15.69"
+Sun Jun  8 21:16:19 2014 [pid 2] CONNECT: Client "88.80.15.69"
+Sun Jun  8 21:16:21 2014 [pid 1] [ftp] FAIL LOGIN: Client "88.80.15.69"
+Sun Jun  8 21:16:23 2014 [pid 2] CONNECT: Client "88.80.15.69"
+Sun Jun  8 21:16:25 2014 [pid 1] [warez] FAIL LOGIN: Client "88.80.15.69"
+Tue Jun 10 07:46:05 2014 [pid 2] CONNECT: Client "213.165.93.129"
+Thu Jun 12 07:51:10 2014 [pid 2] CONNECT: Client "188.165.202.90"
+Thu Jun 12 07:51:10 2014 [pid 1] [pgradzinski] OK LOGIN: Client "188.165.202.90"
+Thu Jun 12 07:51:45 2014 [pid 3] [pgradzinski] OK UPLOAD: Client "188.165.202.90", "/public_html/20110507/blog//6TcRBwDx.gif", 10 bytes, 0.09Kbyte/sec
+Thu Jun 12 07:51:47 2014 [pid 3] [pgradzinski] OK DELETE: Client "188.165.202.90", "/public_html/20110507/blog//6TcRBwDx.gif"
+Thu Jun 12 07:51:54 2014 [pid 3] [pgradzinski] OK UPLOAD: Client "188.165.202.90", "/public_html/20110604/sklep//D2cj3TZW.gif", 10 bytes, 0.07Kbyte/sec
+Thu Jun 12 07:52:16 2014 [pid 3] [pgradzinski] OK DELETE: Client "188.165.202.90", "/public_html/20110604/sklep//D2cj3TZW.gif"
+Thu Jun 12 07:52:24 2014 [pid 3] [pgradzinski] OK UPLOAD: Client "188.165.202.90", "/public_html/20110605/sklep//KqXj7Dn6.gif", 10 bytes, 0.03Kbyte/sec
+Thu Jun 12 07:52:30 2014 [pid 3] [pgradzinski] OK DELETE: Client "188.165.202.90", "/public_html/20110605/sklep//KqXj7Dn6.gif"
+Thu Jun 12 07:52:32 2014 [pid 3] [pgradzinski] OK UPLOAD: Client "188.165.202.90", "/public_html/20110605/smarty_przyklad//KDnY3zQ7.gif", 10 bytes, 0.09Kbyte/sec
+Thu Jun 12 07:52:39 2014 [pid 3] [pgradzinski] OK DELETE: Client "188.165.202.90", "/public_html/20110605/smarty_przyklad//KDnY3zQ7.gif"
+Thu Jun 12 07:52:39 2014 [pid 3] [pgradzinski] OK UPLOAD: Client "188.165.202.90", "/public_html/20120114/blog//MnfvH2QW.gif", 10 bytes, 0.10Kbyte/sec
+Thu Jun 12 07:52:46 2014 [pid 3] [pgradzinski] OK DELETE: Client "188.165.202.90", "/public_html/20120114/blog//MnfvH2QW.gif"
+Thu Jun 12 07:52:53 2014 [pid 3] [pgradzinski] OK UPLOAD: Client "188.165.202.90", "/public_html/20120115/blog//DCTM7hL4.gif", 10 bytes, 0.10Kbyte/sec
+Thu Jun 12 07:52:54 2014 [pid 3] [pgradzinski] OK DELETE: Client "188.165.202.90", "/public_html/20120115/blog//DCTM7hL4.gif"
+Thu Jun 12 07:52:55 2014 [pid 3] [pgradzinski] OK UPLOAD: Client "188.165.202.90", "/public_html/20120128/tamaguczi//JcNVwBHb.gif", 10 bytes, 0.10Kbyte/sec
+Thu Jun 12 07:52:56 2014 [pid 3] [pgradzinski] OK DELETE: Client "188.165.202.90", "/public_html/20120128/tamaguczi//JcNVwBHb.gif"
+Thu Jun 12 07:53:02 2014 [pid 3] [pgradzinski] OK UPLOAD: Client "188.165.202.90", "/public_html/20120128/tamaguczi2//8CwWFrY6.gif", 10 bytes, 0.10Kbyte/sec
+Thu Jun 12 07:53:03 2014 [pid 3] [pgradzinski] OK DELETE: Client "188.165.202.90", "/public_html/20120128/tamaguczi2//8CwWFrY6.gif"
+Thu Jun 12 07:53:04 2014 [pid 3] [pgradzinski] OK UPLOAD: Client "188.165.202.90", "/public_html/20120129/obiektowosc//3vNGBw6M.gif", 10 bytes, 0.07Kbyte/sec
+Thu Jun 12 07:53:10 2014 [pid 3] [pgradzinski] OK DELETE: Client "188.165.202.90", "/public_html/20120129/obiektowosc//3vNGBw6M.gif"
+Thu Jun 12 07:53:12 2014 [pid 3] [pgradzinski] OK UPLOAD: Client "188.165.202.90", "/public_html/20120129/sklep//rnXNpMd4.gif", 10 bytes, 0.07Kbyte/sec
+Thu Jun 12 07:53:14 2014 [pid 3] [pgradzinski] OK DELETE: Client "188.165.202.90", "/public_html/20120129/sklep//rnXNpMd4.gif"
+Thu Jun 12 07:53:16 2014 [pid 3] [pgradzinski] OK UPLOAD: Client "188.165.202.90", "/public_html/20120211/sklep//kwybKngQ.gif", 10 bytes, 0.06Kbyte/sec
+Thu Jun 12 07:53:27 2014 [pid 3] [pgradzinski] OK DELETE: Client "188.165.202.90", "/public_html/20120211/sklep//kwybKngQ.gif"
+Thu Jun 12 07:53:38 2014 [pid 3] [pgradzinski] OK UPLOAD: Client "188.165.202.90", "/public_html/20120212/modrewrite//vnMKmtFp.gif", 10 bytes, 0.09Kbyte/sec
+Thu Jun 12 07:53:39 2014 [pid 3] [pgradzinski] OK DELETE: Client "188.165.202.90", "/public_html/20120212/modrewrite//vnMKmtFp.gif"
+Thu Jun 12 07:53:42 2014 [pid 3] [pgradzinski] OK UPLOAD: Client "188.165.202.90", "/public_html/20120212/sklep//8fvbWTjB.gif", 10 bytes, 0.06Kbyte/sec
+Thu Jun 12 07:53:53 2014 [pid 3] [pgradzinski] OK DELETE: Client "188.165.202.90", "/public_html/20120212/sklep//8fvbWTjB.gif"
+Thu Jun 12 07:54:00 2014 [pid 3] [pgradzinski] OK UPLOAD: Client "188.165.202.90", "/public_html/20120421/blog//dFJXwt82.gif", 10 bytes, 0.10Kbyte/sec
+Thu Jun 12 07:54:01 2014 [pid 3] [pgradzinski] OK DELETE: Client "188.165.202.90", "/public_html/20120421/blog//dFJXwt82.gif"
+Thu Jun 12 07:54:08 2014 [pid 3] [pgradzinski] OK UPLOAD: Client "188.165.202.90", "/public_html/20120520/sklep//LzkmBfNH.gif", 10 bytes, 0.07Kbyte/sec
+Thu Jun 12 07:54:09 2014 [pid 3] [pgradzinski] OK DELETE: Client "188.165.202.90", "/public_html/20120520/sklep//LzkmBfNH.gif"
+Thu Jun 12 07:54:11 2014 [pid 3] [pgradzinski] OK UPLOAD: Client "188.165.202.90", "/public_html/20120602/sklep//yJPf3RjM.gif", 10 bytes, 0.10Kbyte/sec
+Thu Jun 12 07:54:27 2014 [pid 3] [pgradzinski] OK DELETE: Client "188.165.202.90", "/public_html/20120602/sklep//yJPf3RjM.gif"
+Thu Jun 12 07:54:28 2014 [pid 3] [pgradzinski] OK UPLOAD: Client "188.165.202.90", "/public_html/20120603/modrewrite//fhxX3gMt.gif", 10 bytes, 0.09Kbyte/sec
+Thu Jun 12 07:54:34 2014 [pid 3] [pgradzinski] OK DELETE: Client "188.165.202.90", "/public_html/20120603/modrewrite//fhxX3gMt.gif"
+Thu Jun 12 07:54:35 2014 [pid 3] [pgradzinski] OK UPLOAD: Client "188.165.202.90", "/public_html/20120603/notatki//wDhHyXrK.gif", 10 bytes, 0.07Kbyte/sec
+Thu Jun 12 07:54:36 2014 [pid 3] [pgradzinski] OK DELETE: Client "188.165.202.90", "/public_html/20120603/notatki//wDhHyXrK.gif"
+Thu Jun 12 07:54:38 2014 [pid 3] [pgradzinski] OK UPLOAD: Client "188.165.202.90", "/public_html/20120603/sklep//NWH3TYDv.gif", 10 bytes, 0.10Kbyte/sec
+Thu Jun 12 07:54:39 2014 [pid 3] [pgradzinski] OK DELETE: Client "188.165.202.90", "/public_html/20120603/sklep//NWH3TYDv.gif"
+Thu Jun 12 07:54:40 2014 [pid 3] [pgradzinski] OK UPLOAD: Client "188.165.202.90", "/public_html/20140426/linki//M9mtZRpn.gif", 10 bytes, 0.10Kbyte/sec
+Thu Jun 12 07:54:41 2014 [pid 3] [pgradzinski] OK DELETE: Client "188.165.202.90", "/public_html/20140426/linki//M9mtZRpn.gif"
+Thu Jun 12 07:54:42 2014 [pid 3] [pgradzinski] OK UPLOAD: Client "188.165.202.90", "/public_html/20140427/sklep//wp9J63YK.gif", 10 bytes, 0.09Kbyte/sec
+Thu Jun 12 07:54:43 2014 [pid 3] [pgradzinski] OK DELETE: Client "188.165.202.90", "/public_html/20140427/sklep//wp9J63YK.gif"
+Thu Jun 12 07:54:45 2014 [pid 3] [pgradzinski] OK UPLOAD: Client "188.165.202.90", "/public_html/20140531/sklep//G2xyjNpn.gif", 10 bytes, 0.07Kbyte/sec
+Thu Jun 12 07:54:46 2014 [pid 3] [pgradzinski] OK DELETE: Client "188.165.202.90", "/public_html/20140531/sklep//G2xyjNpn.gif"
+Fri Jun 13 05:46:17 2014 [pid 2] CONNECT: Client "93.120.27.62"
+Fri Jun 13 05:46:19 2014 [pid 1] [anonymous] FAIL LOGIN: Client "93.120.27.62"
+Fri Jun 13 11:27:17 2014 [pid 2] CONNECT: Client "146.0.32.163"
+Sun Jun  1 12:20:26 2014 [pid 2] CONNECT: Client "217.144.197.193"
+Sun Jun  1 12:20:26 2014 [pid 1] [pziebinski] OK LOGIN: Client "217.144.197.193"
+Sun Jun  1 12:20:37 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/sklep/przykladowe_dane.txt", 842 bytes, 4.24Kbyte/sec
+Sun Jun  1 12:20:50 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/sklep/tworzenie_tabel.txt", 695 bytes, 8.25Kbyte/sec
+Sun Jun  1 18:17:42 2014 [pid 2] CONNECT: Client "217.144.197.193"
+Sun Jun  1 18:17:42 2014 [pid 1] [pziebinski] OK LOGIN: Client "217.144.197.193"
+Sun Jun  1 18:17:53 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/sklep.sql", 4800 bytes, 54.22Kbyte/sec
+Sun Jun  1 18:22:12 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/20140531/modrewrite/kwiatek.png", 6723 bytes, 59.51Kbyte/sec
+Sun Jun  1 18:22:13 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/20140531/sklep/library/Alx/Db.php", 466 bytes, 6.98Kbyte/sec
+Sun Jun  1 18:22:13 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/20140531/sklep/library/Alx/Tabelka/Zawodnicy.php", 121 bytes, 1.55Kbyte/sec
+Sun Jun  1 18:22:14 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/20140531/sklep/library/Alx/Tabelka.php", 767 bytes, 9.03Kbyte/sec
+Sun Jun  1 18:22:14 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/20140531/sklep/sklep.sql", 4800 bytes, 68.73Kbyte/sec
+Sun Jun  1 18:22:17 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/20140531/sklep/tabelka.php", 348 bytes, 0.11Kbyte/sec
+Sun Jun  1 18:22:19 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/20140531/modrewrite/kwiatek.png", 6723 bytes, 66.37Kbyte/sec
+Sun Jun  1 18:22:19 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/20140531/sklep/library/Alx/Db.php", 466 bytes, 4.02Kbyte/sec
+Sun Jun  1 18:22:20 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/20140531/sklep/library/Alx/Tabelka/Zawodnicy.php", 121 bytes, 1.90Kbyte/sec
+Sun Jun  1 18:22:20 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/20140531/sklep/library/Alx/Tabelka.php", 767 bytes, 14.36Kbyte/sec
+Sun Jun  1 18:22:20 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/20140531/sklep/sklep.sql", 4800 bytes, 52.44Kbyte/sec
+Sun Jun  1 18:22:21 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/20140531/sklep/tabelka.php", 348 bytes, 5.11Kbyte/sec
+Sun Jun  1 18:22:21 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/kalkulator/.DS_Store", 6148 bytes, 66.76Kbyte/sec
+Sun Jun  1 18:22:22 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/kalkulator/application/Bootstrap.php", 257 bytes, 2.51Kbyte/sec
+Sun Jun  1 18:22:22 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/kalkulator/application/configs/application.ini", 673 bytes, 12.23Kbyte/sec
+Sun Jun  1 18:22:22 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/kalkulator/application/controllers/ErrorController.php", 1586 bytes, 25.14Kbyte/sec
+Sun Jun  1 18:22:23 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/kalkulator/application/controllers/IndexController.php", 243 bytes, 1.88Kbyte/sec
+Sun Jun  1 18:22:23 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/kalkulator/application/layouts/layout.phtml", 182 bytes, 2.86Kbyte/sec
+Sun Jun  1 18:22:27 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/kalkulator/application/views/scripts/error/error.phtml", 788 bytes, 12.47Kbyte/sec
+Sun Jun  1 18:22:27 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/kalkulator/application/views/scripts/index/index.phtml", 1084 bytes, 14.30Kbyte/sec
+Sun Jun  1 18:22:28 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/kalkulator/docs/README.txt", 903 bytes, 16.30Kbyte/sec
+Sun Jun  1 18:22:28 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/kalkulator/public/.htaccess", 121 bytes, 2.11Kbyte/sec
+Sun Jun  1 18:22:28 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/kalkulator/public/index.php", 810 bytes, 16.55Kbyte/sec
+Sun Jun  1 18:22:29 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/kalkulator/tests/application/bootstrap.php", 0.00Kbyte/sec
+Sun Jun  1 18:22:29 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/kalkulator/tests/library/bootstrap.php", 0.00Kbyte/sec
+Sun Jun  1 18:22:30 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/kalkulator/tests/phpunit.xml", 0.00Kbyte/sec
+Sun Jun  1 18:22:48 2014 [pid 2] CONNECT: Client "217.144.197.193"
+Sun Jun  1 18:22:48 2014 [pid 1] [pziebinski] OK LOGIN: Client "217.144.197.193"
+Sun Jun  1 18:22:49 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/modrewrite/kwiatek.png", 6723 bytes, 73.56Kbyte/sec
+Sun Jun  1 18:22:49 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/sklep/bootstrap.php", 207 bytes, 2.66Kbyte/sec
+Sun Jun  1 18:22:49 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/sklep/index.php", 315 bytes, 5.22Kbyte/sec
+Sun Jun  1 18:22:50 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/sklep/library/Alx/Akcja/DoKoszyka.php", 742 bytes, 12.20Kbyte/sec
+Sun Jun  1 18:22:50 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/sklep/library/Alx/Akcja/Kategorie.php", 176 bytes, 2.71Kbyte/sec
+Sun Jun  1 18:22:50 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/sklep/library/Alx/Akcja/Produkty.php", 425 bytes, 6.53Kbyte/sec
+Sun Jun  1 18:22:51 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/sklep/library/Alx/Akcja/Realizuj.php", 311 bytes, 4.06Kbyte/sec
+Sun Jun  1 18:22:51 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/sklep/library/Alx/Akcja/Wyslij.php", 876 bytes, 11.99Kbyte/sec
+Sun Jun  1 18:22:51 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/sklep/library/Alx/Akcja.php", 74 bytes, 0.81Kbyte/sec
+Sun Jun  1 18:22:51 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/sklep/library/Alx/Db.php", 466 bytes, 5.80Kbyte/sec
+Sun Jun  1 18:22:52 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/sklep/library/Alx/Tabelka/Kategorie.php", 357 bytes, 4.63Kbyte/sec
+Sun Jun  1 18:22:52 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/sklep/library/Alx/Tabelka/Produkty.php", 324 bytes, 3.79Kbyte/sec
+Sun Jun  1 18:22:52 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/sklep/library/Alx/Tabelka/Zawodnicy.php", 121 bytes, 2.06Kbyte/sec
+Sun Jun  1 18:22:52 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/sklep/library/Alx/Tabelka.php", 767 bytes, 13.68Kbyte/sec
+Sun Jun  1 18:22:53 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/sklep/sklep.sql", 4800 bytes, 59.19Kbyte/sec
+Sun Jun  1 18:22:53 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/sklep/tabelka.php", 348 bytes, 5.00Kbyte/sec
+Sun Jun  1 18:22:53 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/sklep/templates/kategorie.php", 145 bytes, 2.25Kbyte/sec
+Sun Jun  1 18:22:53 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/sklep/templates/naglowek.php", 550 bytes, 6.43Kbyte/sec
+Sun Jun  1 18:22:54 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/sklep/templates/produkty.php", 133 bytes, 2.13Kbyte/sec
+Sun Jun  1 18:22:54 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/sklep/templates/realizuj.php", 987 bytes, 17.97Kbyte/sec
+Sun Jun  1 18:22:54 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/Nowy folder/20140531/sklep/templates/stopka.php", 25 bytes, 0.46Kbyte/sec
+Sun Jun  1 18:22:57 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/kalkulator/.DS_Store", 6148 bytes, 1.94Kbyte/sec
+Sun Jun  1 18:22:58 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/kalkulator/application/Bootstrap.php", 257 bytes, 3.71Kbyte/sec
+Sun Jun  1 18:22:58 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/kalkulator/application/configs/application.ini", 673 bytes, 11.43Kbyte/sec
+Sun Jun  1 18:22:58 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/kalkulator/application/controllers/ErrorController.php", 1586 bytes, 26.24Kbyte/sec
+Sun Jun  1 18:22:59 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/kalkulator/application/controllers/IndexController.php", 243 bytes, 1.35Kbyte/sec
+Sun Jun  1 18:22:59 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/kalkulator/application/controllers/KalkulatorConntroler.php", 202 bytes, 2.75Kbyte/sec
+Sun Jun  1 18:22:59 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php", 631 bytes, 7.43Kbyte/sec
+Sun Jun  1 18:22:59 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/kalkulator/application/layouts/layout.phtml", 182 bytes, 3.69Kbyte/sec
+Sun Jun  1 18:23:01 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/kalkulator/application/views/scripts/error/error.phtml", 788 bytes, 6.41Kbyte/sec
+Sun Jun  1 18:23:01 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/kalkulator/application/views/scripts/index/index.phtml", 1084 bytes, 17.66Kbyte/sec
+Sun Jun  1 18:23:01 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml", 107 bytes, 1.20Kbyte/sec
+Sun Jun  1 18:23:02 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/kalkulator/docs/README.txt", 903 bytes, 15.93Kbyte/sec
+Sun Jun  1 18:23:02 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/kalkulator/public/.htaccess", 121 bytes, 2.30Kbyte/sec
+Sun Jun  1 18:23:02 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/kalkulator/public/index.php", 810 bytes, 12.47Kbyte/sec
+Sun Jun  1 18:23:03 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/kalkulator/tests/application/bootstrap.php", 0.00Kbyte/sec
+Sun Jun  1 18:23:03 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/kalkulator/tests/library/bootstrap.php", 0.00Kbyte/sec
+Sun Jun  1 18:23:04 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/kalkulator/tests/phpunit.xml", 0.00Kbyte/sec
+Sun Jun  1 18:23:04 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/modrewrite/kwiatek.png", 6723 bytes, 44.86Kbyte/sec
+Sun Jun  1 18:23:05 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/bootstrap.php", 204 bytes, 2.79Kbyte/sec
+Sun Jun  1 18:23:05 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/index.php", 326 bytes, 5.27Kbyte/sec
+Sun Jun  1 18:23:05 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/library/Alx/Akcja/DoKoszyka.php", 522 bytes, 8.55Kbyte/sec
+Sun Jun  1 18:23:06 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/library/Alx/Akcja/Kategorie.php", 173 bytes, 2.35Kbyte/sec
+Sun Jun  1 18:23:06 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/library/Alx/Akcja/Produkty.php", 403 bytes, 6.27Kbyte/sec
+Sun Jun  1 18:23:09 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/library/Alx/Akcja/Realizuj.php", 306 bytes, 0.10Kbyte/sec
+Sun Jun  1 18:23:09 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/library/Alx/Akcja/Wyslij.php", 614 bytes, 11.38Kbyte/sec
+Sun Jun  1 18:23:09 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/library/Alx/Akcja.php", 74 bytes, 0.99Kbyte/sec
+Sun Jun  1 18:23:09 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/library/Alx/Db.php", 466 bytes, 7.08Kbyte/sec
+Sun Jun  1 18:23:10 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/library/Alx/Tabelka/Kategorie.php", 351 bytes, 2.08Kbyte/sec
+Sun Jun  1 18:23:10 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/library/Alx/Tabelka/Produkty.php", 314 bytes, 5.57Kbyte/sec
+Sun Jun  1 18:23:10 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/library/Alx/Tabelka/Zawodnicy.php", 121 bytes, 1.66Kbyte/sec
+Sun Jun  1 18:23:11 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/library/Alx/Tabelka.php", 767 bytes, 13.47Kbyte/sec
+Sun Jun  1 18:23:11 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/sklep.sql", 4800 bytes, 80.23Kbyte/sec
+Sun Jun  1 18:23:11 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/tabelka.php", 348 bytes, 5.18Kbyte/sec
+Sun Jun  1 18:23:11 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/templates/kategorie.php", 130 bytes, 1.36Kbyte/sec
+Sun Jun  1 18:23:12 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/templates/naglowek.php", 536 bytes, 8.55Kbyte/sec
+Sun Jun  1 18:23:12 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/templates/produkty.php", 122 bytes, 1.96Kbyte/sec
+Sun Jun  1 18:23:12 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/templates/realizuj.php", 851 bytes, 12.01Kbyte/sec
+Sun Jun  1 18:23:12 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/templates/stopka.php", 24 bytes, 0.40Kbyte/sec
+Sun Jun  1 19:31:00 2014 [pid 2] CONNECT: Client "217.144.197.193"
+Sun Jun  1 19:31:00 2014 [pid 1] [20140322kphp] OK LOGIN: Client "217.144.197.193"
+Sun Jun  1 19:31:32 2014 [pid 2] CONNECT: Client "217.144.197.193"
+Sun Jun  1 19:31:32 2014 [pid 1] [20140322kphp] OK LOGIN: Client "217.144.197.193"
+Sun Jun  1 19:32:00 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140322/klasa.xml", 330 bytes, 4.17Kbyte/sec
+Sun Jun  1 19:32:00 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140322/niezapominajka.xml", 401 bytes, 5.97Kbyte/sec
+Sun Jun  1 19:32:00 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140322/pracownicy.xml", 170 bytes, 2.06Kbyte/sec
+Sun Jun  1 19:32:00 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140322/przyklad.php", 104 bytes, 1.32Kbyte/sec
+Sun Jun  1 19:32:00 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140322/przyklad1.php", 140 bytes, 2.55Kbyte/sec
+Sun Jun  1 19:32:00 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140322/przyklad2.php", 233 bytes, 2.80Kbyte/sec
+Sun Jun  1 19:32:01 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140322/przyklad3.php", 209 bytes, 3.90Kbyte/sec
+Sun Jun  1 19:32:01 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140322/przyklad4.php", 339 bytes, 6.21Kbyte/sec
+Sun Jun  1 19:32:01 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140322/przyklad5.php", 395 bytes, 6.22Kbyte/sec
+Sun Jun  1 19:32:01 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140322/przyklad6.php", 83 bytes, 1.44Kbyte/sec
+Sun Jun  1 19:32:01 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140322/rodzaje.xml", 716 bytes, 10.37Kbyte/sec
+Sun Jun  1 19:32:01 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140322/roslina.xml", 314 bytes, 5.81Kbyte/sec
+Sun Jun  1 19:32:02 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140322/xpath/klasa2.xml", 283 bytes, 3.62Kbyte/sec
+Sun Jun  1 19:32:02 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140322/xpath/owoce.xml", 195 bytes, 3.45Kbyte/sec
+Sun Jun  1 19:32:02 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140322/xpath/rosliny.xml", 1159 bytes, 20.74Kbyte/sec
+Sun Jun  1 19:32:02 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140322/xpath/rss.xml", 21735 bytes, 151.08Kbyte/sec
+Sun Jun  1 19:32:02 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140322/xpath/rss_structure.xml", 21735 bytes, 127.37Kbyte/sec
+Sun Jun  1 19:32:03 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140322/xpath/xpath.php", 809 bytes, 12.38Kbyte/sec
+Sun Jun  1 19:32:03 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140323/block.html", 284 bytes, 3.33Kbyte/sec
+Sun Jun  1 19:32:03 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140323/block_old.html", 150 bytes, 2.34Kbyte/sec
+Sun Jun  1 19:32:03 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140323/bmi.php", 634 bytes, 10.51Kbyte/sec
+Sun Jun  1 19:32:03 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140323/dok2_styl.html", 312 bytes, 4.19Kbyte/sec
+Sun Jun  1 19:32:04 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140323/dok4.html", 1342 bytes, 17.67Kbyte/sec
+Sun Jun  1 19:32:04 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140323/dokument.html", 397 bytes, 5.75Kbyte/sec
+Sun Jun  1 19:32:04 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140323/echo.php", 359 bytes, 4.94Kbyte/sec
+Sun Jun  1 19:32:04 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140323/formularz.html", 289 bytes, 4.20Kbyte/sec
+Sun Jun  1 19:32:04 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140323/if.php", 236 bytes, 2.95Kbyte/sec
+Sun Jun  1 19:32:04 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140323/inline.html", 158 bytes, 1.47Kbyte/sec
+Sun Jun  1 19:32:05 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140323/kalkulator.html", 230 bytes, 3.75Kbyte/sec
+Sun Jun  1 19:32:05 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140323/kalkulator.proc.php", 179 bytes, 3.30Kbyte/sec
+Sun Jun  1 19:32:05 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140323/mojstyl.css", 546 bytes, 10.19Kbyte/sec
+Sun Jun  1 19:32:05 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140323/napisy.php", 369 bytes, 6.15Kbyte/sec
+Sun Jun  1 19:32:05 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140323/o_firmie.php", 1969 bytes, 31.29Kbyte/sec
+Sun Jun  1 19:32:05 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140323/ogonki_01.html", 141 bytes, 2.01Kbyte/sec
+Sun Jun  1 19:32:06 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140323/ogonki_02.html", 157 bytes, 2.69Kbyte/sec
+Sun Jun  1 19:32:06 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140323/ogonki_03.dane", 18 bytes, 0.28Kbyte/sec
+Sun Jun  1 19:32:06 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140323/ogonki_03.php", 247 bytes, 4.62Kbyte/sec
+Sun Jun  1 19:32:06 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140323/ogonki_04.php", 301 bytes, 4.79Kbyte/sec
+Sun Jun  1 19:32:06 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140323/operatory.php", 156 bytes, 2.74Kbyte/sec
+Sun Jun  1 19:32:06 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140323/porownanie.php", 87 bytes, 1.49Kbyte/sec
+Sun Jun  1 19:32:06 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140323/przypomnienie.php", 149 bytes, 2.74Kbyte/sec
+Sun Jun  1 19:32:07 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140323/rzutowanie2.php", 638 bytes, 9.44Kbyte/sec
+Sun Jun  1 19:32:07 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140323/rzutowanie_1.php", 75 bytes, 0.92Kbyte/sec
+Sun Jun  1 19:32:07 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140323/setlocale_01.php", 163 bytes, 2.70Kbyte/sec
+Sun Jun  1 19:32:07 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140323/setlocale_02.php", 209 bytes, 3.22Kbyte/sec
+Sun Jun  1 19:32:07 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140323/setlocale_03.php", 230 bytes, 3.18Kbyte/sec
+Sun Jun  1 19:32:07 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140323/setlocale_04.php", 269 bytes, 5.14Kbyte/sec
+Sun Jun  1 19:32:07 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140323/styl.css", 753 bytes, 13.54Kbyte/sec
+Sun Jun  1 19:32:08 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140323/tablice.php", 45 bytes, 0.78Kbyte/sec
+Sun Jun  1 19:32:08 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140323/twoje_ip.php", 402 bytes, 7.65Kbyte/sec
+Sun Jun  1 19:32:08 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140323/wykrzyknik.jpg", 748 bytes, 4.73Kbyte/sec
+Sun Jun  1 19:32:08 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140323/zazolc.txt", 17 bytes, 0.27Kbyte/sec
+Sun Jun  1 19:32:08 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140405/cms.php", 437 bytes, 6.38Kbyte/sec
+Sun Jun  1 19:32:09 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140405/cms.proc.php", 146 bytes, 2.27Kbyte/sec
+Sun Jun  1 19:32:09 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140405/ewaluacja.php", 92 bytes, 0.20Kbyte/sec
+Sun Jun  1 19:32:09 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140405/kraje.php", 856 bytes, 11.89Kbyte/sec
+Sun Jun  1 19:32:09 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140405/zlota_mysl.php", 328 bytes, 4.71Kbyte/sec
+Sun Jun  1 19:32:10 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140405/zlota_mysl.txt", 1 bytes, 0.01Kbyte/sec
+Sun Jun  1 19:32:10 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140406/funkcja1.php", 172 bytes, 2.07Kbyte/sec
+Sun Jun  1 19:32:10 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140406/funkcja2.php", 255 bytes, 4.10Kbyte/sec
+Sun Jun  1 19:32:10 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140406/funkcja3.php", 307 bytes, 5.46Kbyte/sec
+Sun Jun  1 19:32:10 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140406/sql.php", 487 bytes, 8.08Kbyte/sec
+Sun Jun  1 19:32:11 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140426/dropdown.html", 286 bytes, 4.11Kbyte/sec
+Sun Jun  1 19:32:11 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140426/edycja_towaru.php", 49 bytes, 0.59Kbyte/sec
+Sun Jun  1 19:32:11 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140426/include/test1.php", 43 bytes, 0.63Kbyte/sec
+Sun Jun  1 19:32:11 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140426/include/test2.html", 15 bytes, 0.24Kbyte/sec
+Sun Jun  1 19:32:12 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140426/kuku.html", 18 bytes, 0.30Kbyte/sec
+Sun Jun  1 19:32:12 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140426/linki/index.php", 13 bytes, 0.16Kbyte/sec
+Sun Jun  1 19:32:12 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140426/linki/taboret/index.php", 28 bytes, 0.36Kbyte/sec
+Sun Jun  1 19:32:13 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140426/linki/taboret/test2.html", 352 bytes, 5.02Kbyte/sec
+Sun Jun  1 19:32:13 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140426/linki/taboret/test3.html", 30 bytes, 0.46Kbyte/sec
+Sun Jun  1 19:32:13 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140426/linki/test1.php", 332 bytes, 4.25Kbyte/sec
+Sun Jun  1 19:32:13 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140426/linki/test2.html", 17 bytes, 0.26Kbyte/sec
+Sun Jun  1 19:32:14 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140426/pozycjonowanie.html", 2239 bytes, 15.47Kbyte/sec
+Sun Jun  1 19:32:14 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140426/przekierowanie.php", 43 bytes, 0.74Kbyte/sec
+Sun Jun  1 19:32:14 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140426/replace.php", 57 bytes, 0.66Kbyte/sec
+Sun Jun  1 19:32:14 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140426/sesje/test1.php", 84 bytes, 1.24Kbyte/sec
+Sun Jun  1 19:32:14 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140426/sesje/test2.php", 52 bytes, 0.90Kbyte/sec
+Sun Jun  1 19:32:15 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140426/test.php", 19 bytes, 0.32Kbyte/sec
+Sun Jun  1 19:32:15 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140426/test_tb.html", 5870 bytes, 57.65Kbyte/sec
+Sun Jun  1 19:32:15 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140426/zmienne/test.php", 287 bytes, 3.80Kbyte/sec
+Sun Jun  1 19:32:16 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140426/zycie_zmiennych/test1.php", 57 bytes, 0.63Kbyte/sec
+Sun Jun  1 19:32:16 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140426/zycie_zmiennych/test2.php", 20 bytes, 0.11Kbyte/sec
+Sun Jun  1 19:32:16 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140427/nic.sql", 1545 bytes, 24.72Kbyte/sec
+Sun Jun  1 19:32:17 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140427/sklep/dodaj_produkt.php", 355 bytes, 4.42Kbyte/sec
+Sun Jun  1 19:32:17 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140427/sklep/edycja_produktu.php", 277 bytes, 4.11Kbyte/sec
+Sun Jun  1 19:32:17 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140427/sklep/ekran_logowania.php", 49 bytes, 0.69Kbyte/sec
+Sun Jun  1 19:32:17 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140427/sklep/index.php", 190 bytes, 3.36Kbyte/sec
+Sun Jun  1 19:32:17 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140427/sklep/logowanie.php", 203 bytes, 2.22Kbyte/sec
+Sun Jun  1 19:32:18 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140427/sklep/prenumeratorzy.pdf", 105008 bytes, 326.53Kbyte/sec
+Sun Jun  1 19:32:18 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140427/sklep/przykladowe_dane.txt", 842 bytes, 13.77Kbyte/sec
+Sun Jun  1 19:32:18 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140427/sklep/skasuj_produkt.php", 187 bytes, 3.12Kbyte/sec
+Sun Jun  1 19:32:19 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140427/sklep/szablony/edycja_produktu.html", 3690 bytes, 64.75Kbyte/sec
+Sun Jun  1 19:32:19 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140427/sklep/szablony/ekran_logowania.html", 1844 bytes, 31.93Kbyte/sec
+Sun Jun  1 19:32:19 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140427/sklep/szablony/index.html", 3363 bytes, 38.01Kbyte/sec
+Sun Jun  1 19:32:19 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140427/sklep/tworzenie_tabel.txt", 695 bytes, 10.74Kbyte/sec
+Sun Jun  1 19:32:20 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140427/sklep/wspolne.php", 177 bytes, 2.12Kbyte/sec
+Sun Jun  1 19:32:20 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140427/sklep/wylogowanie.php", 90 bytes, 1.23Kbyte/sec
+Sun Jun  1 19:32:20 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140427/sklep/zmien_produkt.php", 352 bytes, 4.87Kbyte/sec
+Sun Jun  1 19:32:24 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/Spreadsheet/Excel/Writer/BIFFwriter.php", 7527 bytes, 64.98Kbyte/sec
+Sun Jun  1 19:32:24 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/Spreadsheet/Excel/Writer/Format.php", 30399 bytes, 165.30Kbyte/sec
+Sun Jun  1 19:32:25 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/Spreadsheet/Excel/Writer/Parser.php", 66832 bytes, 280.25Kbyte/sec
+Sun Jun  1 19:32:25 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/Spreadsheet/Excel/Writer/Validator.php", 6380 bytes, 69.21Kbyte/sec
+Sun Jun  1 19:32:25 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/Spreadsheet/Excel/Writer/Workbook.php", 54371 bytes, 228.58Kbyte/sec
+Sun Jun  1 19:32:26 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/Spreadsheet/Excel/Writer/Worksheet.php", 112246 bytes, 418.98Kbyte/sec
+Sun Jun  1 19:32:26 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/Spreadsheet/Excel/Writer.php", 3324 bytes, 41.26Kbyte/sec
+Sun Jun  1 19:32:27 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/Spreadsheet/Spreadsheet/Excel/Writer/BIFFwriter.php", 7527 bytes, 56.06Kbyte/sec
+Sun Jun  1 19:32:27 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/Spreadsheet/Spreadsheet/Excel/Writer/Format.php", 30399 bytes, 193.66Kbyte/sec
+Sun Jun  1 19:32:28 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/Spreadsheet/Spreadsheet/Excel/Writer/Parser.php", 66832 bytes, 256.85Kbyte/sec
+Sun Jun  1 19:32:28 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/Spreadsheet/Spreadsheet/Excel/Writer/Validator.php", 6380 bytes, 59.89Kbyte/sec
+Sun Jun  1 19:32:28 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/Spreadsheet/Spreadsheet/Excel/Writer/Workbook.php", 54371 bytes, 242.47Kbyte/sec
+Sun Jun  1 19:32:29 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/Spreadsheet/Spreadsheet/Excel/Writer/Worksheet.php", 112246 bytes, 323.37Kbyte/sec
+Sun Jun  1 19:32:29 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/Spreadsheet/Spreadsheet/Excel/Writer.php", 3324 bytes, 45.67Kbyte/sec
+Sun Jun  1 19:32:30 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/arial.ttf", 774476 bytes, 938.65Kbyte/sec
+Sun Jun  1 19:32:30 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/email.php", 147 bytes, 2.02Kbyte/sec
+Sun Jun  1 19:32:31 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/excel.php", 554 bytes, 4.40Kbyte/sec
+Sun Jun  1 19:32:31 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/obiektowosc/library/Ekipa.php", 484 bytes, 7.51Kbyte/sec
+Sun Jun  1 19:32:31 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/obiektowosc/library/Zawodnik.php", 574 bytes, 8.04Kbyte/sec
+Sun Jun  1 19:32:31 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/obiektowosc/library/ZawodnikNieletni.php", 314 bytes, 4.83Kbyte/sec
+Sun Jun  1 19:32:32 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/obiektowosc/przyklady/zawodnik_1.php", 123 bytes, 1.50Kbyte/sec
+Sun Jun  1 19:32:32 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/obiektowosc/przyklady/zawodnik_2.php", 615 bytes, 7.99Kbyte/sec
+Sun Jun  1 19:32:32 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/obiektowosc/przyklady/zawodnik_3.php", 437 bytes, 5.87Kbyte/sec
+Sun Jun  1 19:32:32 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/obiektowosc/przyklady/zawodnik_4.php", 595 bytes, 9.48Kbyte/sec
+Sun Jun  1 19:32:32 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/obiektowosc/przyklady/zawodnik_5.php", 615 bytes, 9.04Kbyte/sec
+Sun Jun  1 19:32:33 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/obiektowosc/zawodnik.php", 1203 bytes, 8.19Kbyte/sec
+Sun Jun  1 19:32:33 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/regexp/daty.php", 160 bytes, 1.97Kbyte/sec
+Sun Jun  1 19:32:33 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/regexp/daty.txt", 411 bytes, 6.10Kbyte/sec
+Sun Jun  1 19:32:34 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/regexp/dojazd.html", 1870 bytes, 22.31Kbyte/sec
+Sun Jun  1 19:32:34 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/regexp/dojazd.php", 207 bytes, 2.73Kbyte/sec
+Sun Jun  1 19:32:34 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/regexp/lata.php", 189 bytes, 1.72Kbyte/sec
+Sun Jun  1 19:32:34 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/regexp/lata.txt", 1593 bytes, 28.97Kbyte/sec
+Sun Jun  1 19:32:34 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/regexp/regexp.php", 195 bytes, 2.35Kbyte/sec
+Sun Jun  1 19:32:35 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/turtle.php", 2075 bytes, 26.94Kbyte/sec
+Sun Jun  1 19:32:35 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140517/zolw.php", 558 bytes, 10.70Kbyte/sec
+Sun Jun  1 19:32:35 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140518/js/alert.html", 191 bytes, 3.26Kbyte/sec
+Sun Jun  1 19:32:35 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140518/js/alert2.html", 344 bytes, 3.71Kbyte/sec
+Sun Jun  1 19:32:36 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140518/js/js.html", 562 bytes, 9.75Kbyte/sec
+Sun Jun  1 19:32:36 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140518/js/js2.html", 484 bytes, 8.18Kbyte/sec
+Sun Jun  1 19:32:36 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140518/js/js3.html", 111 bytes, 2.05Kbyte/sec
+Sun Jun  1 19:32:36 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140518/js/js4.html", 395 bytes, 7.01Kbyte/sec
+Sun Jun  1 19:32:36 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140518/js/js5.html", 357 bytes, 4.65Kbyte/sec
+Sun Jun  1 19:32:36 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140518/js/kwiatek.png", 6723 bytes, 71.50Kbyte/sec
+Sun Jun  1 19:32:36 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140518/js/kwiatek_bw.png", 4569 bytes, 75.96Kbyte/sec
+Sun Jun  1 19:32:37 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140518/js/moj.js", 25 bytes, 0.34Kbyte/sec
+Sun Jun  1 19:32:37 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140518/js/przyklady/zmienne_4_funkcje.html", 95 bytes, 1.02Kbyte/sec
+Sun Jun  1 19:32:37 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140518/js/przyklady/zmienne_5_funkcje.html", 90 bytes, 1.55Kbyte/sec
+Sun Jun  1 19:32:37 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140518/js/przyklady/zmienne_6_funkcje.html", 104 bytes, 1.89Kbyte/sec
+Sun Jun  1 19:32:37 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140518/js/przyklady/zmienne_7_funkcje.html", 128 bytes, 2.41Kbyte/sec
+Sun Jun  1 19:32:38 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140518/library/Alx/Db.php", 466 bytes, 7.22Kbyte/sec
+Sun Jun  1 19:32:38 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140518/library/Alx/Tabelka/Zawodnicy.php", 121 bytes, 0.74Kbyte/sec
+Sun Jun  1 19:32:39 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140518/library/Alx/Tabelka.php", 767 bytes, 12.66Kbyte/sec
+Sun Jun  1 19:32:39 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140518/sklep.sql", 4800 bytes, 54.85Kbyte/sec
+Sun Jun  1 19:32:39 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140518/tabelka.php", 348 bytes, 4.90Kbyte/sec
+Sun Jun  1 19:32:40 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/jquery/imieniny.php", 39 bytes, 0.62Kbyte/sec
+Sun Jun  1 19:32:40 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/jquery/jquery1.html", 1238 bytes, 19.96Kbyte/sec
+Sun Jun  1 19:32:40 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/kalkulator/.DS_Store", 6148 bytes, 54.42Kbyte/sec
+Sun Jun  1 19:32:41 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/kalkulator/application/Bootstrap.php", 257 bytes, 1.46Kbyte/sec
+Sun Jun  1 19:32:41 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/kalkulator/application/configs/application.ini", 673 bytes, 7.37Kbyte/sec
+Sun Jun  1 19:32:41 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/kalkulator/application/controllers/ErrorController.php", 1586 bytes, 25.29Kbyte/sec
+Sun Jun  1 19:32:42 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/kalkulator/application/controllers/IndexController.php", 243 bytes, 3.68Kbyte/sec
+Sun Jun  1 19:32:42 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php", 671 bytes, 7.99Kbyte/sec
+Sun Jun  1 19:32:42 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/kalkulator/application/layouts/layout.phtml", 182 bytes, 2.16Kbyte/sec
+Sun Jun  1 19:32:43 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/kalkulator/application/views/scripts/error/error.phtml", 788 bytes, 9.39Kbyte/sec
+Sun Jun  1 19:32:44 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/kalkulator/application/views/scripts/index/index.phtml", 1084 bytes, 21.85Kbyte/sec
+Sun Jun  1 19:32:44 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml", 129 bytes, 2.09Kbyte/sec
+Sun Jun  1 19:32:44 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/kalkulator/docs/README.txt", 903 bytes, 14.31Kbyte/sec
+Sun Jun  1 19:32:45 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/kalkulator/public/.htaccess", 124 bytes, 2.11Kbyte/sec
+Sun Jun  1 19:32:45 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/kalkulator/public/index.php", 810 bytes, 8.58Kbyte/sec
+Sun Jun  1 19:32:46 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/kalkulator/tests/application/bootstrap.php", 0.00Kbyte/sec
+Sun Jun  1 19:32:46 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/kalkulator/tests/library/bootstrap.php", 0.00Kbyte/sec
+Sun Jun  1 19:32:46 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/kalkulator/tests/phpunit.xml", 0.00Kbyte/sec
+Sun Jun  1 19:32:47 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/modrewrite/.htaccess", 99 bytes, 1.50Kbyte/sec
+Sun Jun  1 19:32:47 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/modrewrite/kwiatek.png", 6723 bytes, 62.07Kbyte/sec
+Sun Jun  1 19:32:47 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/modrewrite/test.php", 14 bytes, 0.18Kbyte/sec
+Sun Jun  1 19:32:47 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/modrewrite/test2.php", 26 bytes, 0.33Kbyte/sec
+Sun Jun  1 19:32:47 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/bootstrap.php", 207 bytes, 3.23Kbyte/sec
+Sun Jun  1 19:32:48 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/index.php", 315 bytes, 3.63Kbyte/sec
+Sun Jun  1 19:32:48 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/library/Alx/Akcja/DoKoszyka.php", 742 bytes, 9.53Kbyte/sec
+Sun Jun  1 19:32:48 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/library/Alx/Akcja/Kategorie.php", 176 bytes, 2.33Kbyte/sec
+Sun Jun  1 19:32:49 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/library/Alx/Akcja/Produkty.php", 425 bytes, 6.75Kbyte/sec
+Sun Jun  1 19:32:49 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/library/Alx/Akcja/Realizuj.php", 311 bytes, 4.05Kbyte/sec
+Sun Jun  1 19:32:49 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/library/Alx/Akcja/Wyslij.php", 876 bytes, 10.91Kbyte/sec
+Sun Jun  1 19:32:49 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/library/Alx/Akcja.php", 74 bytes, 0.78Kbyte/sec
+Sun Jun  1 19:32:50 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/library/Alx/Db.php", 466 bytes, 7.79Kbyte/sec
+Sun Jun  1 19:32:50 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/library/Alx/Tabelka/Kategorie.php", 357 bytes, 5.54Kbyte/sec
+Sun Jun  1 19:32:50 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/library/Alx/Tabelka/Produkty.php", 324 bytes, 5.75Kbyte/sec
+Sun Jun  1 19:32:50 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/library/Alx/Tabelka/Zawodnicy.php", 121 bytes, 1.45Kbyte/sec
+Sun Jun  1 19:32:51 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/library/Alx/Tabelka.php", 767 bytes, 11.70Kbyte/sec
+Sun Jun  1 19:32:51 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/sklep.sql", 4800 bytes, 72.06Kbyte/sec
+Sun Jun  1 19:32:51 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/tabelka.php", 348 bytes, 4.85Kbyte/sec
+Sun Jun  1 19:32:51 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/templates/kategorie.php", 145 bytes, 1.81Kbyte/sec
+Sun Jun  1 19:32:52 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/templates/naglowek.php", 550 bytes, 7.39Kbyte/sec
+Sun Jun  1 19:32:52 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/templates/produkty.php", 133 bytes, 2.37Kbyte/sec
+Sun Jun  1 19:32:52 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/templates/realizuj.php", 987 bytes, 9.16Kbyte/sec
+Sun Jun  1 19:32:52 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/20140531/sklep/templates/stopka.php", 25 bytes, 0.39Kbyte/sec
+Sun Jun  1 19:32:52 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/.htaccess", 111 bytes, 1.69Kbyte/sec
+Sun Jun  1 19:32:53 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "217.144.197.193", "/public_html/.source.php", 1093 bytes, 13.57Kbyte/sec
+Sun Jun  1 19:34:09 2014 [pid 2] CONNECT: Client "217.144.197.193"
+Sun Jun  1 19:34:09 2014 [pid 1] [pziebinski] OK LOGIN: Client "217.144.197.193"
+Sun Jun  1 19:35:01 2014 [pid 2] CONNECT: Client "217.144.197.193"
+Sun Jun  1 19:35:01 2014 [pid 1] [pziebinski] OK LOGIN: Client "217.144.197.193"
+Mon Jun  2 15:33:50 2014 [pid 2] CONNECT: Client "89.65.152.138"
+Fri Jun  6 12:33:54 2014 [pid 2] CONNECT: Client "46.50.183.5"
+Fri Jun  6 12:33:56 2014 [pid 1] [anonymous] FAIL LOGIN: Client "46.50.183.5"
+Fri Jun  6 19:54:02 2014 [pid 2] CONNECT: Client "82.221.105.6"
+Fri Jun  6 19:54:04 2014 [pid 1] [anonymous] FAIL LOGIN: Client "82.221.105.6"
+Tue May 27 00:53:13 2014 [pid 2] CONNECT: Client "94.249.144.66"
+Tue May 27 00:53:16 2014 [pid 1] [ppozniak] FAIL LOGIN: Client "94.249.144.66"
+Tue May 27 11:14:42 2014 [pid 2] CONNECT: Client "94.249.144.66"
+Tue May 27 11:14:43 2014 [pid 1] [pmartuszewski] FAIL LOGIN: Client "94.249.144.66"
+Wed May 28 11:32:51 2014 [pid 2] CONNECT: Client "87.204.199.9"
+Wed May 28 11:33:02 2014 [pid 1] [mgruszka] OK LOGIN: Client "87.204.199.9"
+Wed May 28 11:33:03 2014 [pid 3] [mgruszka] FAIL DOWNLOAD: Client "87.204.199.9", "/home/20140322dphp/mgruszka/public_html/pszczelarz/index.html", 0.00Kbyte/sec
+Thu May 29 01:16:17 2014 [pid 2] CONNECT: Client "81.162.216.1"
+Thu May 29 05:58:40 2014 [pid 2] CONNECT: Client "198.20.69.98"
+Thu May 29 06:00:11 2014 [pid 2] CONNECT: Client "198.20.69.98"
+Thu May 29 06:00:14 2014 [pid 1] [anonymous] FAIL LOGIN: Client "198.20.69.98"
+Sat May 31 15:43:38 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:43:39 2014 [pid 1] [akulesza] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:44:22 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:44:22 2014 [pid 1] [20140322kphp] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:44:23 2014 [pid 3] [20140322kphp] OK MKDIR: Client "195.20.2.28", "/home"
+Sat May 31 15:44:23 2014 [pid 3] [20140322kphp] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp"
+Sat May 31 15:44:23 2014 [pid 3] [20140322kphp] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/20140322kphp"
+Sat May 31 15:44:23 2014 [pid 3] [20140322kphp] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/20140322kphp/public_html"
+Sat May 31 15:44:29 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:44:29 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:44:29 2014 [pid 1] [lbozek] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:44:29 2014 [pid 1] [kbiskub] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:44:29 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:44:29 2014 [pid 3] [kbiskub] OK MKDIR: Client "195.20.2.28", "/home"
+Sat May 31 15:44:29 2014 [pid 3] [lbozek] OK MKDIR: Client "195.20.2.28", "/home"
+Sat May 31 15:44:29 2014 [pid 3] [kbiskub] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp"
+Sat May 31 15:44:30 2014 [pid 3] [lbozek] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp"
+Sat May 31 15:44:30 2014 [pid 3] [kbiskub] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/kbiskub"
+Sat May 31 15:44:30 2014 [pid 3] [lbozek] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/lbozek"
+Sat May 31 15:44:30 2014 [pid 3] [kbiskub] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/kbiskub/public_html"
+Sat May 31 15:44:30 2014 [pid 3] [lbozek] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/lbozek/public_html"
+Sat May 31 15:44:31 2014 [pid 1] [Andrzej] FAIL LOGIN: Client "195.20.2.28"
+Sat May 31 15:44:31 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:44:31 2014 [pid 1] [gvasylyshyna] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:44:32 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:44:32 2014 [pid 3] [gvasylyshyna] OK MKDIR: Client "195.20.2.28", "/home"
+Sat May 31 15:44:32 2014 [pid 1] [arakowski] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:44:32 2014 [pid 3] [gvasylyshyna] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp"
+Sat May 31 15:44:32 2014 [pid 3] [gvasylyshyna] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/gvasylyshyna"
+Sat May 31 15:44:33 2014 [pid 3] [gvasylyshyna] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/gvasylyshyna/public_html"
+Sat May 31 15:44:33 2014 [pid 3] [arakowski] OK MKDIR: Client "195.20.2.28", "/home"
+Sat May 31 15:44:33 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:44:33 2014 [pid 3] [arakowski] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp"
+Sat May 31 15:44:33 2014 [pid 1] [pziebinski] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:44:33 2014 [pid 3] [arakowski] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/arakowski"
+Sat May 31 15:44:33 2014 [pid 3] [arakowski] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/arakowski/public_html"
+Sat May 31 15:44:33 2014 [pid 3] [pziebinski] OK MKDIR: Client "195.20.2.28", "/home"
+Sat May 31 15:44:33 2014 [pid 3] [pziebinski] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp"
+Sat May 31 15:44:34 2014 [pid 3] [pziebinski] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/pziebinski"
+Sat May 31 15:44:34 2014 [pid 3] [pziebinski] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/pziebinski/public_html"
+Sat May 31 15:44:39 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:44:39 2014 [pid 1] [20140322kphp] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:44:42 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:44:42 2014 [pid 1] [mkazmierczak] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:44:42 2014 [pid 3] [mkazmierczak] OK MKDIR: Client "195.20.2.28", "/home"
+Sat May 31 15:44:42 2014 [pid 3] [mkazmierczak] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp"
+Sat May 31 15:44:43 2014 [pid 3] [mkazmierczak] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/mkazmierczak"
+Sat May 31 15:44:43 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:44:43 2014 [pid 3] [mkazmierczak] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/mkazmierczak/public_html"
+Sat May 31 15:44:43 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:44:44 2014 [pid 1] [kbiskub] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:44:44 2014 [pid 1] [Andrzej] FAIL LOGIN: Client "195.20.2.28"
+Sat May 31 15:44:45 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:44:45 2014 [pid 1] [lbozek] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:45:15 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:45:15 2014 [pid 1] [mkazmierczak] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:45:20 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:45:22 2014 [pid 1] [alidwin] FAIL LOGIN: Client "195.20.2.28"
+Sat May 31 15:45:38 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:45:41 2014 [pid 1] [alidwin] FAIL LOGIN: Client "195.20.2.28"
+Sat May 31 15:45:57 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:45:57 2014 [pid 1] [alidwin] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:45:58 2014 [pid 3] [alidwin] OK MKDIR: Client "195.20.2.28", "/home"
+Sat May 31 15:45:59 2014 [pid 3] [alidwin] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp"
+Sat May 31 15:46:00 2014 [pid 3] [alidwin] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/alidwin"
+Sat May 31 15:46:01 2014 [pid 3] [alidwin] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/alidwin/public_html"
+Sat May 31 15:46:21 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:46:21 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:46:21 2014 [pid 1] [mkazmierczak] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:46:21 2014 [pid 1] [gvasylyshyna] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:46:22 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:46:22 2014 [pid 3] [mkazmierczak] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/mkazmierczak/public_html/20140531"
+Sat May 31 15:46:22 2014 [pid 3] [gvasylyshyna] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/gvasylyshyna/public_html/20140531"
+Sat May 31 15:46:22 2014 [pid 1] [akulesza] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:46:22 2014 [pid 3] [mkazmierczak] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/mkazmierczak/public_html/20140531/kalkulator"
+Sat May 31 15:46:22 2014 [pid 3] [gvasylyshyna] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/gvasylyshyna/public_html/20140531/kalkulator"
+Sat May 31 15:46:22 2014 [pid 3] [akulesza] OK MKDIR: Client "195.20.2.28", "/home"
+Sat May 31 15:46:22 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:46:23 2014 [pid 3] [akulesza] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp"
+Sat May 31 15:46:23 2014 [pid 1] [20140322kphp] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:46:23 2014 [pid 3] [akulesza] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/akulesza"
+Sat May 31 15:46:23 2014 [pid 3] [akulesza] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/akulesza/public_html"
+Sat May 31 15:46:23 2014 [pid 3] [20140322kphp] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/20140322kphp/public_html/20140531"
+Sat May 31 15:46:23 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:46:23 2014 [pid 3] [20140322kphp] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/20140322kphp/public_html/20140531/kalkulator"
+Sat May 31 15:46:23 2014 [pid 3] [akulesza] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/akulesza/public_html/20140531"
+Sat May 31 15:46:23 2014 [pid 1] [pziebinski] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:46:24 2014 [pid 3] [akulesza] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/akulesza/public_html/20140531/Kalkulator"
+Sat May 31 15:46:24 2014 [pid 3] [pziebinski] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/pziebinski/public_html/20140531"
+Sat May 31 15:46:24 2014 [pid 3] [pziebinski] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/pziebinski/public_html/20140531/Kalkulator"
+Sat May 31 15:46:29 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:46:30 2014 [pid 1] [kbiskub] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:46:31 2014 [pid 3] [kbiskub] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/kbiskub/public_html/2014-05-31"
+Sat May 31 15:46:31 2014 [pid 3] [kbiskub] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/kbiskub/public_html/2014-05-31/kalkulator"
+Sat May 31 15:46:38 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:46:41 2014 [pid 1] [akulesza] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:46:41 2014 [pid 3] [akulesza] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/akulesza/public_html/20140531/kalkulator"
+Sat May 31 15:46:45 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:46:45 2014 [pid 1] [lbozek] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:46:46 2014 [pid 3] [lbozek] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/lbozek/public_html/20140531"
+Sat May 31 15:46:46 2014 [pid 3] [lbozek] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/lbozek/public_html/20140531/kalkulator"
+Sat May 31 15:46:46 2014 [pid 3] [lbozek] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/lbozek/public_html/20140531/kalkulator/kalkulator"
+Sat May 31 15:46:47 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:46:47 2014 [pid 1] [20140322kphp] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:46:49 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:46:49 2014 [pid 1] [arakowski] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:46:50 2014 [pid 3] [arakowski] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/arakowski/public_html/20140531"
+Sat May 31 15:46:50 2014 [pid 3] [arakowski] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/arakowski/public_html/20140531/kalkulator"
+Sat May 31 15:46:53 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:46:53 2014 [pid 1] [kbiskub] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:46:56 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:46:56 2014 [pid 1] [20140322kphp] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:46:58 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:46:58 2014 [pid 1] [alidwin] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:46:59 2014 [pid 3] [alidwin] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/alidwin/public_html/20140531"
+Sat May 31 15:46:59 2014 [pid 3] [alidwin] OK MKDIR: Client "195.20.2.28", "/home/20140322kphp/alidwin/public_html/20140531/kalkulator"
+Sat May 31 15:47:00 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:47:00 2014 [pid 1] [kbiskub] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:47:08 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:47:08 2014 [pid 1] [kbiskub] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:47:24 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:47:24 2014 [pid 1] [20140322kphp] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:47:27 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:47:30 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:47:30 2014 [pid 1] [20140322kphp] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:47:46 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:47:46 2014 [pid 1] [mkazmierczak] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:47:52 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:47:52 2014 [pid 1] [lbozek] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:47:54 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:47:54 2014 [pid 1] [akulesza] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:48:00 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:48:00 2014 [pid 1] [lbozek] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:48:00 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:48:00 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:48:00 2014 [pid 1] [pziebinski] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:48:00 2014 [pid 1] [arakowski] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:48:01 2014 [pid 3] [pziebinski] OK MKDIR: Client "195.20.2.28", "/public_html/20140531/Kalkulator"
+Sat May 31 15:48:04 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:48:05 2014 [pid 1] [kbiskub] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:48:07 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:48:07 2014 [pid 1] [20140322kphp] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:48:09 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:48:09 2014 [pid 1] [gvasylyshyna] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:48:15 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:48:15 2014 [pid 1] [alidwin] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:48:16 2014 [pid 3] [alidwin] OK MKDIR: Client "195.20.2.28", "/public_html/20140531/kalkulator"
+Sat May 31 15:48:23 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:48:23 2014 [pid 1] [20140322kphp] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:48:24 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:48:24 2014 [pid 1] [pziebinski] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:48:25 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:48:25 2014 [pid 1] [gvasylyshyna] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:48:26 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/tests/application/bootstrap.php", 0.00Kbyte/sec
+Sat May 31 15:48:26 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:48:26 2014 [pid 1] [lbozek] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:48:26 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/tests/library/bootstrap.php", 0.00Kbyte/sec
+Sat May 31 15:48:27 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/tests/phpunit.xml", 0.00Kbyte/sec
+Sat May 31 15:48:28 2014 [pid 3] [gvasylyshyna] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/tests/application/bootstrap.php", 0.00Kbyte/sec
+Sat May 31 15:48:28 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/docs/README.txt", 903 bytes, 17.66Kbyte/sec
+Sat May 31 15:48:28 2014 [pid 3] [gvasylyshyna] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/tests/library/bootstrap.php", 0.00Kbyte/sec
+Sat May 31 15:48:28 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/public/.htaccess", 121 bytes, 1.91Kbyte/sec
+Sat May 31 15:48:29 2014 [pid 3] [lbozek] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/tests/application/bootstrap.php", 0.00Kbyte/sec
+Sat May 31 15:48:29 2014 [pid 3] [gvasylyshyna] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/tests/phpunit.xml", 0.00Kbyte/sec
+Sat May 31 15:48:29 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/public/index.php", 810 bytes, 19.40Kbyte/sec
+Sat May 31 15:48:29 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/layouts/layout.phtml", 182 bytes, 3.36Kbyte/sec
+Sat May 31 15:48:29 2014 [pid 3] [lbozek] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/tests/library/bootstrap.php", 0.00Kbyte/sec
+Sat May 31 15:48:30 2014 [pid 3] [gvasylyshyna] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/Bootstrap.php", 257 bytes, 4.57Kbyte/sec
+Sat May 31 15:48:30 2014 [pid 3] [lbozek] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/tests/phpunit.xml", 0.00Kbyte/sec
+Sat May 31 15:48:30 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/ErrorController.php", 1586 bytes, 13.88Kbyte/sec
+Sat May 31 15:48:31 2014 [pid 3] [gvasylyshyna] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/configs/application.ini", 673 bytes, 12.77Kbyte/sec
+Sat May 31 15:48:31 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/IndexController.php", 243 bytes, 6.09Kbyte/sec
+Sat May 31 15:48:31 2014 [pid 3] [lbozek] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/Bootstrap.php", 257 bytes, 6.35Kbyte/sec
+Sat May 31 15:48:31 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/Bootstrap.php", 257 bytes, 3.28Kbyte/sec
+Sat May 31 15:48:32 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/configs/application.ini", 673 bytes, 9.45Kbyte/sec
+Sat May 31 15:48:32 2014 [pid 3] [lbozek] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/configs/application.ini", 673 bytes, 10.27Kbyte/sec
+Sat May 31 15:48:32 2014 [pid 3] [gvasylyshyna] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/layouts/layout.phtml", 182 bytes, 2.88Kbyte/sec
+Sat May 31 15:48:33 2014 [pid 3] [lbozek] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/controllers/ErrorController.php", 1586 bytes, 19.39Kbyte/sec
+Sat May 31 15:48:33 2014 [pid 3] [lbozek] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/controllers/IndexController.php", 243 bytes, 4.61Kbyte/sec
+Sat May 31 15:48:34 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/error/error.phtml", 788 bytes, 13.69Kbyte/sec
+Sat May 31 15:48:34 2014 [pid 3] [lbozek] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/layouts/layout.phtml", 182 bytes, 2.59Kbyte/sec
+Sat May 31 15:48:34 2014 [pid 3] [20140322kphp] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/index/index.phtml", 1084 bytes, 25.65Kbyte/sec
+Sat May 31 15:48:35 2014 [pid 3] [gvasylyshyna] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/error/error.phtml", 788 bytes, 18.41Kbyte/sec
+Sat May 31 15:48:38 2014 [pid 3] [gvasylyshyna] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/index/index.phtml", 1084 bytes, 2.68Kbyte/sec
+Sat May 31 15:48:40 2014 [pid 3] [gvasylyshyna] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/docs/README.txt", 903 bytes, 11.70Kbyte/sec
+Sat May 31 15:48:40 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:48:40 2014 [pid 1] [pziebinski] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:48:40 2014 [pid 3] [lbozek] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/views/scripts/error/error.phtml", 788 bytes, 14.43Kbyte/sec
+Sat May 31 15:48:40 2014 [pid 3] [gvasylyshyna] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/public/.htaccess", 121 bytes, 1.58Kbyte/sec
+Sat May 31 15:48:41 2014 [pid 3] [gvasylyshyna] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/public/index.php", 810 bytes, 12.63Kbyte/sec
+Sat May 31 15:48:41 2014 [pid 3] [lbozek] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/views/scripts/index/index.phtml", 1084 bytes, 17.64Kbyte/sec
+Sat May 31 15:48:42 2014 [pid 3] [lbozek] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/docs/README.txt", 903 bytes, 17.78Kbyte/sec
+Sat May 31 15:48:43 2014 [pid 3] [lbozek] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/public/.htaccess", 121 bytes, 2.61Kbyte/sec
+Sat May 31 15:48:43 2014 [pid 3] [lbozek] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/public/index.php", 810 bytes, 20.40Kbyte/sec
+Sat May 31 15:48:45 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:48:45 2014 [pid 1] [akulesza] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:48:50 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:48:51 2014 [pid 1] [mkazmierczak] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:48:54 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:48:54 2014 [pid 1] [mkazmierczak] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:48:55 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:48:55 2014 [pid 1] [pziebinski] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:48:57 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:48:58 2014 [pid 1] [kbiskub] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:49:02 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:49:02 2014 [pid 1] [kbiskub] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:49:02 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:49:03 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:49:03 2014 [pid 1] [akulesza] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:49:03 2014 [pid 1] [mkazmierczak] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:49:04 2014 [pid 3] [kbiskub] OK DOWNLOAD: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/tests/application/bootstrap.php", 0.00Kbyte/sec
+Sat May 31 15:49:05 2014 [pid 3] [akulesza] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/tests/application/bootstrap.php", 0.00Kbyte/sec
+Sat May 31 15:49:05 2014 [pid 3] [mkazmierczak] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/tests/application/bootstrap.php", 0.00Kbyte/sec
+Sat May 31 15:49:05 2014 [pid 3] [kbiskub] OK DOWNLOAD: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/tests/library/bootstrap.php", 0.00Kbyte/sec
+Sat May 31 15:49:06 2014 [pid 3] [kbiskub] OK DOWNLOAD: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/tests/phpunit.xml", 0.00Kbyte/sec
+Sat May 31 15:49:06 2014 [pid 3] [akulesza] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/tests/library/bootstrap.php", 0.00Kbyte/sec
+Sat May 31 15:49:06 2014 [pid 3] [mkazmierczak] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/tests/library/bootstrap.php", 0.00Kbyte/sec
+Sat May 31 15:49:06 2014 [pid 3] [akulesza] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/tests/phpunit.xml", 0.00Kbyte/sec
+Sat May 31 15:49:06 2014 [pid 3] [mkazmierczak] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/tests/phpunit.xml", 0.00Kbyte/sec
+Sat May 31 15:49:06 2014 [pid 3] [kbiskub] OK DOWNLOAD: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/application/Bootstrap.php", 257 bytes, 4.96Kbyte/sec
+Sat May 31 15:49:07 2014 [pid 3] [kbiskub] OK DOWNLOAD: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/application/configs/application.ini", 673 bytes, 13.00Kbyte/sec
+Sat May 31 15:49:07 2014 [pid 3] [mkazmierczak] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/Bootstrap.php", 257 bytes, 3.96Kbyte/sec
+Sat May 31 15:49:07 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:49:07 2014 [pid 3] [akulesza] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/Bootstrap.php", 257 bytes, 4.99Kbyte/sec
+Sat May 31 15:49:08 2014 [pid 1] [arakowski] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:49:08 2014 [pid 3] [kbiskub] OK DOWNLOAD: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/application/controllers/ErrorController.php", 1586 bytes, 19.80Kbyte/sec
+Sat May 31 15:49:08 2014 [pid 3] [mkazmierczak] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/configs/application.ini", 673 bytes, 12.90Kbyte/sec
+Sat May 31 15:49:08 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:49:08 2014 [pid 1] [alidwin] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:49:08 2014 [pid 3] [kbiskub] OK DOWNLOAD: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/application/controllers/IndexController.php", 243 bytes, 4.66Kbyte/sec
+Sat May 31 15:49:09 2014 [pid 3] [mkazmierczak] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/ErrorController.php", 1586 bytes, 23.78Kbyte/sec
+Sat May 31 15:49:09 2014 [pid 3] [kbiskub] OK DOWNLOAD: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/application/layouts/layout.phtml", 182 bytes, 4.68Kbyte/sec
+Sat May 31 15:49:09 2014 [pid 3] [mkazmierczak] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/IndexController.php", 243 bytes, 4.55Kbyte/sec
+Sat May 31 15:49:09 2014 [pid 3] [akulesza] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/configs/application.ini", 673 bytes, 12.22Kbyte/sec
+Sat May 31 15:49:10 2014 [pid 3] [mkazmierczak] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/layouts/layout.phtml", 182 bytes, 2.67Kbyte/sec
+Sat May 31 15:49:10 2014 [pid 3] [akulesza] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/ErrorController.php", 1586 bytes, 23.91Kbyte/sec
+Sat May 31 15:49:11 2014 [pid 3] [akulesza] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/IndexController.php", 243 bytes, 3.17Kbyte/sec
+Sat May 31 15:49:12 2014 [pid 3] [akulesza] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/layouts/layout.phtml", 182 bytes, 3.90Kbyte/sec
+Sat May 31 15:49:12 2014 [pid 3] [kbiskub] OK DOWNLOAD: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/application/views/scripts/error/error.phtml", 788 bytes, 11.05Kbyte/sec
+Sat May 31 15:49:13 2014 [pid 3] [kbiskub] OK DOWNLOAD: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/application/views/scripts/index/index.phtml", 1084 bytes, 15.52Kbyte/sec
+Sat May 31 15:49:13 2014 [pid 3] [mkazmierczak] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/error/error.phtml", 788 bytes, 15.19Kbyte/sec
+Sat May 31 15:49:14 2014 [pid 3] [mkazmierczak] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/index/index.phtml", 1084 bytes, 18.95Kbyte/sec
+Sat May 31 15:49:14 2014 [pid 3] [kbiskub] OK DOWNLOAD: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/public/.htaccess", 121 bytes, 2.85Kbyte/sec
+Sat May 31 15:49:14 2014 [pid 3] [kbiskub] OK DOWNLOAD: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/public/index.php", 810 bytes, 29.60Kbyte/sec
+Sat May 31 15:49:15 2014 [pid 3] [akulesza] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/error/error.phtml", 788 bytes, 27.45Kbyte/sec
+Sat May 31 15:49:15 2014 [pid 3] [mkazmierczak] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/docs/README.txt", 903 bytes, 35.54Kbyte/sec
+Sat May 31 15:49:15 2014 [pid 3] [akulesza] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/index/index.phtml", 1084 bytes, 22.92Kbyte/sec
+Sat May 31 15:49:15 2014 [pid 3] [mkazmierczak] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/public/.htaccess", 121 bytes, 3.11Kbyte/sec
+Sat May 31 15:49:16 2014 [pid 3] [mkazmierczak] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/public/index.php", 810 bytes, 12.51Kbyte/sec
+Sat May 31 15:49:16 2014 [pid 3] [akulesza] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/docs/README.txt", 903 bytes, 18.12Kbyte/sec
+Sat May 31 15:49:17 2014 [pid 3] [akulesza] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/public/.htaccess", 121 bytes, 3.29Kbyte/sec
+Sat May 31 15:49:17 2014 [pid 3] [akulesza] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/public/index.php", 810 bytes, 15.85Kbyte/sec
+Sat May 31 15:49:22 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:49:23 2014 [pid 1] [alidwin] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:49:39 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:49:40 2014 [pid 1] [pziebinski] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:49:42 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/tests/application/bootstrap.php", 0.00Kbyte/sec
+Sat May 31 15:49:43 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/tests/library/bootstrap.php", 0.00Kbyte/sec
+Sat May 31 15:49:44 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/tests/phpunit.xml", 0.00Kbyte/sec
+Sat May 31 15:49:44 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/Bootstrap.php", 257 bytes, 4.79Kbyte/sec
+Sat May 31 15:49:45 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/configs/application.ini", 673 bytes, 7.33Kbyte/sec
+Sat May 31 15:49:46 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/ErrorController.php", 1586 bytes, 41.60Kbyte/sec
+Sat May 31 15:49:46 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/IndexController.php", 243 bytes, 3.92Kbyte/sec
+Sat May 31 15:49:47 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/layouts/layout.phtml", 182 bytes, 2.71Kbyte/sec
+Sat May 31 15:49:48 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:49:49 2014 [pid 1] [alidwin] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:49:50 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/error/error.phtml", 788 bytes, 11.05Kbyte/sec
+Sat May 31 15:49:51 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/index/index.phtml", 1084 bytes, 16.40Kbyte/sec
+Sat May 31 15:49:51 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/docs/README.txt", 903 bytes, 38.80Kbyte/sec
+Sat May 31 15:49:52 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/public/.htaccess", 121 bytes, 1.91Kbyte/sec
+Sat May 31 15:49:53 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/public/index.php", 810 bytes, 20.59Kbyte/sec
+Sat May 31 15:49:59 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:49:59 2014 [pid 1] [alidwin] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:50:05 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:50:05 2014 [pid 1] [alidwin] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:50:16 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:50:16 2014 [pid 1] [alidwin] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:50:17 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:50:17 2014 [pid 1] [arakowski] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:50:18 2014 [pid 3] [arakowski] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/tests/application/bootstrap.php", 0.00Kbyte/sec
+Sat May 31 15:50:20 2014 [pid 3] [arakowski] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/Bootstrap.php", 257 bytes, 6.48Kbyte/sec
+Sat May 31 15:50:21 2014 [pid 3] [arakowski] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/configs/application.ini", 673 bytes, 10.18Kbyte/sec
+Sat May 31 15:50:22 2014 [pid 3] [arakowski] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/ErrorController.php", 1586 bytes, 24.07Kbyte/sec
+Sat May 31 15:50:22 2014 [pid 3] [arakowski] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/IndexController.php", 243 bytes, 3.69Kbyte/sec
+Sat May 31 15:50:23 2014 [pid 3] [arakowski] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/layouts/layout.phtml", 182 bytes, 3.43Kbyte/sec
+Sat May 31 15:50:26 2014 [pid 3] [arakowski] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/error/error.phtml", 788 bytes, 6.38Kbyte/sec
+Sat May 31 15:50:27 2014 [pid 3] [arakowski] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/index/index.phtml", 1084 bytes, 20.66Kbyte/sec
+Sat May 31 15:50:29 2014 [pid 3] [arakowski] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/tests/phpunit.xml", 0.00Kbyte/sec
+Sat May 31 15:50:29 2014 [pid 3] [arakowski] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/tests/library/bootstrap.php", 0.00Kbyte/sec
+Sat May 31 15:50:30 2014 [pid 3] [arakowski] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/public/.htaccess", 121 bytes, 1.88Kbyte/sec
+Sat May 31 15:50:30 2014 [pid 3] [arakowski] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/public/index.php", 810 bytes, 17.22Kbyte/sec
+Sat May 31 15:50:31 2014 [pid 3] [arakowski] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/docs/README.txt", 903 bytes, 14.23Kbyte/sec
+Sat May 31 15:50:33 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:50:33 2014 [pid 1] [alidwin] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:50:39 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:50:40 2014 [pid 1] [alidwin] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:50:49 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:50:49 2014 [pid 1] [alidwin] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:52:13 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:52:13 2014 [pid 1] [alidwin] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:52:16 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:52:16 2014 [pid 1] [alidwin] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:52:17 2014 [pid 3] [alidwin] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140631/kalkulator/tests/application/bootstrap.php", 0.00Kbyte/sec
+Sat May 31 15:52:18 2014 [pid 3] [alidwin] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140631/kalkulator/tests/library/bootstrap.php", 0.00Kbyte/sec
+Sat May 31 15:52:18 2014 [pid 3] [alidwin] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140631/kalkulator/tests/phpunit.xml", 0.00Kbyte/sec
+Sat May 31 15:52:19 2014 [pid 3] [alidwin] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140631/kalkulator/application/Bootstrap.php", 257 bytes, 8.41Kbyte/sec
+Sat May 31 15:52:20 2014 [pid 3] [alidwin] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140631/kalkulator/application/configs/application.ini", 673 bytes, 16.23Kbyte/sec
+Sat May 31 15:52:20 2014 [pid 3] [alidwin] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140631/kalkulator/application/controllers/ErrorController.php", 1586 bytes, 26.64Kbyte/sec
+Sat May 31 15:52:20 2014 [pid 3] [alidwin] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140631/kalkulator/application/controllers/IndexController.php", 243 bytes, 6.09Kbyte/sec
+Sat May 31 15:52:21 2014 [pid 3] [alidwin] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140631/kalkulator/application/layouts/layout.phtml", 182 bytes, 6.97Kbyte/sec
+Sat May 31 15:52:23 2014 [pid 3] [alidwin] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140631/kalkulator/application/views/scripts/error/error.phtml", 788 bytes, 24.71Kbyte/sec
+Sat May 31 15:52:23 2014 [pid 3] [alidwin] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140631/kalkulator/application/views/scripts/index/index.phtml", 1084 bytes, 48.36Kbyte/sec
+Sat May 31 15:52:24 2014 [pid 3] [alidwin] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140631/kalkulator/docs/README.txt", 903 bytes, 34.91Kbyte/sec
+Sat May 31 15:52:24 2014 [pid 3] [alidwin] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140631/kalkulator/public/.htaccess", 121 bytes, 2.79Kbyte/sec
+Sat May 31 15:52:25 2014 [pid 3] [alidwin] OK DOWNLOAD: Client "195.20.2.28", "/public_html/20140631/kalkulator/public/index.php", 810 bytes, 30.21Kbyte/sec
+Sat May 31 15:53:40 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:53:40 2014 [pid 1] [20140322kphp] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:53:40 2014 [pid 3] [20140322kphp] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/public/.htaccess.new", 119 bytes, 1.44Kbyte/sec
+Sat May 31 15:53:41 2014 [pid 3] [20140322kphp] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/public/.htaccess.new /public_html/20140531/kalkulator/public/.htaccess"
+Sat May 31 15:54:11 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:54:11 2014 [pid 1] [lbozek] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:54:11 2014 [pid 3] [lbozek] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/public/.htaccess.new", 128 bytes, 2.62Kbyte/sec
+Sat May 31 15:54:11 2014 [pid 3] [lbozek] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/public/.htaccess.new /public_html/20140531/kalkulator/kalkulator/public/.htaccess"
+Sat May 31 15:54:14 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:54:14 2014 [pid 1] [akulesza] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:54:15 2014 [pid 3] [akulesza] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/public/.htaccess.new", 119 bytes, 1.03Kbyte/sec
+Sat May 31 15:54:15 2014 [pid 3] [akulesza] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/public/.htaccess.new /public_html/20140531/kalkulator/public/.htaccess"
+Sat May 31 15:54:20 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:54:20 2014 [pid 1] [kbiskub] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:54:21 2014 [pid 3] [kbiskub] OK UPLOAD: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/public/.htaccess.new", 120 bytes, 1.46Kbyte/sec
+Sat May 31 15:54:21 2014 [pid 3] [kbiskub] OK RENAME: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/public/.htaccess.new /public_html/2014-05-31/kalkulator/public/.htaccess"
+Sat May 31 15:54:33 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:54:33 2014 [pid 1] [pziebinski] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:54:34 2014 [pid 3] [pziebinski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/public/.htaccess.new", 121 bytes, 0.98Kbyte/sec
+Sat May 31 15:54:34 2014 [pid 3] [pziebinski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/public/.htaccess.new /public_html/20140531/kalkulator/public/.htaccess"
+Sat May 31 15:54:36 2014 [pid 3] [20140322kphp] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/public/.htaccess.new", 123 bytes, 1.99Kbyte/sec
+Sat May 31 15:54:36 2014 [pid 3] [20140322kphp] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/public/.htaccess.new /public_html/20140531/kalkulator/public/.htaccess"
+Sat May 31 15:54:56 2014 [pid 3] [20140322kphp] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/public/.htaccess.new", 124 bytes, 2.18Kbyte/sec
+Sat May 31 15:54:57 2014 [pid 3] [20140322kphp] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/public/.htaccess.new /public_html/20140531/kalkulator/public/.htaccess"
+Sat May 31 15:55:10 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:55:11 2014 [pid 1] [mkazmierczak] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:55:11 2014 [pid 3] [mkazmierczak] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/public/.htaccess.new", 123 bytes, 1.40Kbyte/sec
+Sat May 31 15:55:11 2014 [pid 3] [mkazmierczak] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/public/.htaccess.new /public_html/20140531/kalkulator/public/.htaccess"
+Sat May 31 15:55:18 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:55:18 2014 [pid 1] [gvasylyshyna] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:55:19 2014 [pid 3] [gvasylyshyna] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/public/.htaccess.new", 123 bytes, 1.68Kbyte/sec
+Sat May 31 15:55:19 2014 [pid 3] [gvasylyshyna] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/public/.htaccess.new /public_html/20140531/kalkulator/public/.htaccess"
+Sat May 31 15:55:52 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:55:52 2014 [pid 1] [arakowski] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:55:52 2014 [pid 3] [arakowski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/public/.htaccess.new", 121 bytes, 1.79Kbyte/sec
+Sat May 31 15:55:52 2014 [pid 3] [arakowski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/public/.htaccess.new /public_html/20140531/kalkulator/public/.htaccess"
+Sat May 31 15:57:10 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 15:57:10 2014 [pid 1] [alidwin] OK LOGIN: Client "195.20.2.28"
+Sat May 31 15:57:11 2014 [pid 3] [alidwin] OK UPLOAD: Client "195.20.2.28", "/public_html/20140631/kalkulator/public/.htaccess.new", 118 bytes, 1.91Kbyte/sec
+Sat May 31 15:57:11 2014 [pid 3] [alidwin] OK RENAME: Client "195.20.2.28", "/public_html/20140631/kalkulator/public/.htaccess.new /public_html/20140631/kalkulator/public/.htaccess"
+Sat May 31 15:57:47 2014 [pid 3] [alidwin] OK UPLOAD: Client "195.20.2.28", "/public_html/20140631/kalkulator/public/.htaccess.new", 118 bytes, 1.40Kbyte/sec
+Sat May 31 15:57:47 2014 [pid 3] [alidwin] OK RENAME: Client "195.20.2.28", "/public_html/20140631/kalkulator/public/.htaccess.new /public_html/20140631/kalkulator/public/.htaccess"
+Sat May 31 16:08:57 2014 [pid 3] [kbiskub] OK UPLOAD: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/public/.htaccess.new", 122 bytes, 1.03Kbyte/sec
+Sat May 31 16:08:57 2014 [pid 3] [kbiskub] OK RENAME: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/public/.htaccess.new /public_html/2014-05-31/kalkulator/public/.htaccess"
+Sat May 31 16:14:26 2014 [pid 3] [20140322kphp] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 202 bytes, 1.47Kbyte/sec
+Sat May 31 16:14:26 2014 [pid 3] [20140322kphp] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:14:26 2014 [pid 3] [20140322kphp] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 202 bytes, 2.00Kbyte/sec
+Sat May 31 16:14:26 2014 [pid 3] [20140322kphp] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:14:27 2014 [pid 3] [20140322kphp] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 202 bytes, 1.89Kbyte/sec
+Sat May 31 16:14:27 2014 [pid 3] [20140322kphp] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:14:32 2014 [pid 3] [mkazmierczak] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorContoller.php.new", 193 bytes, 0.61Kbyte/sec
+Sat May 31 16:14:32 2014 [pid 3] [akulesza] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 193 bytes, 1.10Kbyte/sec
+Sat May 31 16:14:32 2014 [pid 3] [mkazmierczak] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorContoller.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorContoller.php"
+Sat May 31 16:14:32 2014 [pid 3] [akulesza] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:14:33 2014 [pid 3] [akulesza] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 202 bytes, 3.21Kbyte/sec
+Sat May 31 16:14:33 2014 [pid 3] [akulesza] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:14:33 2014 [pid 3] [akulesza] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 202 bytes, 1.71Kbyte/sec
+Sat May 31 16:14:33 2014 [pid 3] [mkazmierczak] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorContoller.php.new", 202 bytes, 1.75Kbyte/sec
+Sat May 31 16:14:33 2014 [pid 3] [akulesza] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:14:33 2014 [pid 3] [mkazmierczak] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorContoller.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorContoller.php"
+Sat May 31 16:14:34 2014 [pid 3] [mkazmierczak] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorContoller.php.new", 202 bytes, 1.33Kbyte/sec
+Sat May 31 16:14:34 2014 [pid 3] [mkazmierczak] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorContoller.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorContoller.php"
+Sat May 31 16:14:35 2014 [pid 3] [kbiskub] OK UPLOAD: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/application/controllers/KalkulatorController.php.new", 193 bytes, 1.30Kbyte/sec
+Sat May 31 16:14:35 2014 [pid 3] [kbiskub] OK RENAME: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/application/controllers/KalkulatorController.php.new /public_html/2014-05-31/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:14:35 2014 [pid 3] [kbiskub] OK UPLOAD: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/application/controllers/KalkulatorController.php.new", 202 bytes, 0.97Kbyte/sec
+Sat May 31 16:14:36 2014 [pid 3] [kbiskub] OK RENAME: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/application/controllers/KalkulatorController.php.new /public_html/2014-05-31/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:14:39 2014 [pid 3] [kbiskub] OK UPLOAD: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/application/controllers/KalkulatorController.php.new", 202 bytes, 0.21Kbyte/sec
+Sat May 31 16:14:39 2014 [pid 3] [kbiskub] OK RENAME: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/application/controllers/KalkulatorController.php.new /public_html/2014-05-31/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:14:41 2014 [pid 3] [lbozek] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php.new", 193 bytes, 1.63Kbyte/sec
+Sat May 31 16:14:41 2014 [pid 3] [lbozek] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:14:42 2014 [pid 3] [lbozek] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php.new", 202 bytes, 2.72Kbyte/sec
+Sat May 31 16:14:42 2014 [pid 3] [lbozek] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:14:43 2014 [pid 3] [lbozek] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php.new", 202 bytes, 1.67Kbyte/sec
+Sat May 31 16:14:43 2014 [pid 3] [lbozek] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:14:44 2014 [pid 3] [pziebinski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorConntroler.php.new", 193 bytes, 1.40Kbyte/sec
+Sat May 31 16:14:45 2014 [pid 3] [pziebinski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorConntroler.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorConntroler.php"
+Sat May 31 16:14:45 2014 [pid 3] [pziebinski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorConntroler.php.new", 202 bytes, 1.20Kbyte/sec
+Sat May 31 16:14:46 2014 [pid 3] [pziebinski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorConntroler.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorConntroler.php"
+Sat May 31 16:14:46 2014 [pid 3] [pziebinski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorConntroler.php.new", 202 bytes, 1.60Kbyte/sec
+Sat May 31 16:14:46 2014 [pid 3] [pziebinski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorConntroler.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorConntroler.php"
+Sat May 31 16:14:47 2014 [pid 3] [arakowski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorControler.php.new", 193 bytes, 1.38Kbyte/sec
+Sat May 31 16:14:47 2014 [pid 3] [arakowski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorControler.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorControler.php"
+Sat May 31 16:14:48 2014 [pid 3] [arakowski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorControler.php.new", 202 bytes, 2.99Kbyte/sec
+Sat May 31 16:14:48 2014 [pid 3] [arakowski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorControler.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorControler.php"
+Sat May 31 16:14:49 2014 [pid 3] [arakowski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorControler.php.new", 202 bytes, 0.79Kbyte/sec
+Sat May 31 16:14:49 2014 [pid 3] [arakowski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorControler.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorControler.php"
+Sat May 31 16:14:49 2014 [pid 3] [alidwin] OK UPLOAD: Client "195.20.2.28", "/public_html/20140631/kalkulator/application/controllers/KalkulatorControllers.php.new", 193 bytes, 1.14Kbyte/sec
+Sat May 31 16:14:49 2014 [pid 3] [alidwin] OK RENAME: Client "195.20.2.28", "/public_html/20140631/kalkulator/application/controllers/KalkulatorControllers.php.new /public_html/20140631/kalkulator/application/controllers/KalkulatorControllers.php"
+Sat May 31 16:14:50 2014 [pid 3] [alidwin] OK UPLOAD: Client "195.20.2.28", "/public_html/20140631/kalkulator/application/controllers/KalkulatorControllers.php.new", 193 bytes, 1.36Kbyte/sec
+Sat May 31 16:14:50 2014 [pid 3] [alidwin] OK RENAME: Client "195.20.2.28", "/public_html/20140631/kalkulator/application/controllers/KalkulatorControllers.php.new /public_html/20140631/kalkulator/application/controllers/KalkulatorControllers.php"
+Sat May 31 16:14:51 2014 [pid 3] [alidwin] OK UPLOAD: Client "195.20.2.28", "/public_html/20140631/kalkulator/application/controllers/KalkulatorControllers.php.new", 202 bytes, 0.60Kbyte/sec
+Sat May 31 16:14:51 2014 [pid 3] [alidwin] OK RENAME: Client "195.20.2.28", "/public_html/20140631/kalkulator/application/controllers/KalkulatorControllers.php.new /public_html/20140631/kalkulator/application/controllers/KalkulatorControllers.php"
+Sat May 31 16:14:53 2014 [pid 3] [mkazmierczak] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorContoller.php /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:15:06 2014 [pid 3] [gvasylyshyna] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/kalkulatorControler.php.new", 193 bytes, 1.89Kbyte/sec
+Sat May 31 16:15:06 2014 [pid 3] [gvasylyshyna] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/kalkulatorControler.php.new /public_html/20140531/kalkulator/application/controllers/kalkulatorControler.php"
+Sat May 31 16:15:07 2014 [pid 3] [gvasylyshyna] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/kalkulatorControler.php.new", 202 bytes, 1.27Kbyte/sec
+Sat May 31 16:15:07 2014 [pid 3] [gvasylyshyna] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/kalkulatorControler.php.new /public_html/20140531/kalkulator/application/controllers/kalkulatorControler.php"
+Sat May 31 16:15:08 2014 [pid 3] [gvasylyshyna] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/kalkulatorControler.php.new", 202 bytes, 1.83Kbyte/sec
+Sat May 31 16:15:08 2014 [pid 3] [gvasylyshyna] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/kalkulatorControler.php.new /public_html/20140531/kalkulator/application/controllers/kalkulatorControler.php"
+Sat May 31 16:15:14 2014 [pid 3] [20140322kphp] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 282 bytes, 2.48Kbyte/sec
+Sat May 31 16:15:14 2014 [pid 3] [20140322kphp] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:15:31 2014 [pid 3] [akulesza] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 282 bytes, 0.97Kbyte/sec
+Sat May 31 16:15:31 2014 [pid 3] [akulesza] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:16:07 2014 [pid 3] [arakowski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorControler.php /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:16:34 2014 [pid 3] [alidwin] OK RENAME: Client "195.20.2.28", "/public_html/20140631/kalkulator/application/controllers/KalkulatorControllers.php /public_html/20140631/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:17:03 2014 [pid 3] [pziebinski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 276 bytes, 3.81Kbyte/sec
+Sat May 31 16:17:03 2014 [pid 3] [pziebinski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:17:04 2014 [pid 3] [pziebinski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 276 bytes, 1.56Kbyte/sec
+Sat May 31 16:17:04 2014 [pid 3] [pziebinski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:17:45 2014 [pid 3] [20140322kphp] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 330 bytes, 2.76Kbyte/sec
+Sat May 31 16:17:45 2014 [pid 3] [20140322kphp] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:17:49 2014 [pid 3] [mkazmierczak] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 329 bytes, 2.59Kbyte/sec
+Sat May 31 16:17:49 2014 [pid 3] [mkazmierczak] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:18:02 2014 [pid 3] [gvasylyshyna] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/kalkulatorControler.php.new", 334 bytes, 2.28Kbyte/sec
+Sat May 31 16:18:02 2014 [pid 3] [gvasylyshyna] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/kalkulatorControler.php.new /public_html/20140531/kalkulator/application/controllers/kalkulatorControler.php"
+Sat May 31 16:18:04 2014 [pid 3] [20140322kphp] OK MKDIR: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator"
+Sat May 31 16:18:04 2014 [pid 3] [lbozek] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php.new", 316 bytes, 1.88Kbyte/sec
+Sat May 31 16:18:05 2014 [pid 3] [lbozek] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:18:05 2014 [pid 3] [akulesza] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 314 bytes, 2.08Kbyte/sec
+Sat May 31 16:18:06 2014 [pid 3] [akulesza] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:18:10 2014 [pid 3] [mkazmierczak] OK MKDIR: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/Kalkulator"
+Sat May 31 16:18:13 2014 [pid 3] [akulesza] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 340 bytes, 0.82Kbyte/sec
+Sat May 31 16:18:13 2014 [pid 3] [akulesza] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:18:17 2014 [pid 3] [alidwin] OK MKDIR: Client "195.20.2.28", "/public_html/20140631/kalkulator/application/views/scripts/Kalkulator"
+Sat May 31 16:18:25 2014 [pid 3] [arakowski] OK MKDIR: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator"
+Sat May 31 16:18:29 2014 [pid 3] [lbozek] OK MKDIR: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/views/scripts/kalkulator"
+Sat May 31 16:18:31 2014 [pid 3] [gvasylyshyna] OK MKDIR: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator"
+Sat May 31 16:18:43 2014 [pid 3] [mkazmierczak] OK MKDIR: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator"
+Sat May 31 16:18:48 2014 [pid 3] [akulesza] OK MKDIR: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator"
+Sat May 31 16:18:50 2014 [pid 3] [gvasylyshyna] OK MKDIR: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/index/kalkulator"
+Sat May 31 16:19:16 2014 [pid 3] [lbozek] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/views/scripts/kalkulator/newfile.new", 0.00Kbyte/sec
+Sat May 31 16:19:16 2014 [pid 3] [lbozek] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/views/scripts/kalkulator/newfile.new /public_html/20140531/kalkulator/kalkulator/application/views/scripts/kalkulator/newfile"
+Sat May 31 16:19:16 2014 [pid 3] [lbozek] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/views/scripts/kalkulator/newfile.new", 0.00Kbyte/sec
+Sat May 31 16:19:16 2014 [pid 3] [lbozek] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/views/scripts/kalkulator/newfile.new /public_html/20140531/kalkulator/kalkulator/application/views/scripts/kalkulator/newfile"
+Sat May 31 16:19:23 2014 [pid 3] [20140322kphp] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 0.00Kbyte/sec
+Sat May 31 16:19:24 2014 [pid 3] [20140322kphp] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:19:24 2014 [pid 3] [20140322kphp] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 0.00Kbyte/sec
+Sat May 31 16:19:24 2014 [pid 3] [20140322kphp] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:19:30 2014 [pid 3] [lbozek] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/views/scripts/kalkulator/newfile /public_html/20140531/kalkulator/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:19:32 2014 [pid 3] [akulesza] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 0.00Kbyte/sec
+Sat May 31 16:19:33 2014 [pid 3] [akulesza] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:19:33 2014 [pid 3] [akulesza] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 0.00Kbyte/sec
+Sat May 31 16:19:33 2014 [pid 3] [mkazmierczak] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 0.00Kbyte/sec
+Sat May 31 16:19:33 2014 [pid 3] [mkazmierczak] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:19:33 2014 [pid 3] [akulesza] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:19:34 2014 [pid 3] [mkazmierczak] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 0.00Kbyte/sec
+Sat May 31 16:19:34 2014 [pid 3] [mkazmierczak] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:19:36 2014 [pid 3] [alidwin] OK UPLOAD: Client "195.20.2.28", "/public_html/20140631/kalkulator/application/views/scripts/Kalkulator/policz.phtml.new", 0.00Kbyte/sec
+Sat May 31 16:19:37 2014 [pid 3] [alidwin] OK RENAME: Client "195.20.2.28", "/public_html/20140631/kalkulator/application/views/scripts/Kalkulator/policz.phtml.new /public_html/20140631/kalkulator/application/views/scripts/Kalkulator/policz.phtml"
+Sat May 31 16:19:39 2014 [pid 3] [alidwin] OK UPLOAD: Client "195.20.2.28", "/public_html/20140631/kalkulator/application/views/scripts/Kalkulator/policz.phtml.new", 0.00Kbyte/sec
+Sat May 31 16:19:39 2014 [pid 3] [alidwin] OK RENAME: Client "195.20.2.28", "/public_html/20140631/kalkulator/application/views/scripts/Kalkulator/policz.phtml.new /public_html/20140631/kalkulator/application/views/scripts/Kalkulator/policz.phtml"
+Sat May 31 16:19:45 2014 [pid 3] [pziebinski] OK MKDIR: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/kalkulator"
+Sat May 31 16:19:50 2014 [pid 3] [alidwin] OK UPLOAD: Client "195.20.2.28", "/public_html/20140631/kalkulator/application/controllers/KalkulatorController.php.new", 343 bytes, 1.39Kbyte/sec
+Sat May 31 16:19:50 2014 [pid 3] [alidwin] OK RENAME: Client "195.20.2.28", "/public_html/20140631/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140631/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:19:55 2014 [pid 3] [arakowski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 0.00Kbyte/sec
+Sat May 31 16:19:55 2014 [pid 3] [arakowski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:19:56 2014 [pid 3] [arakowski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 0.00Kbyte/sec
+Sat May 31 16:19:56 2014 [pid 3] [arakowski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:19:58 2014 [pid 3] [alidwin] OK MKDIR: Client "195.20.2.28", "/public_html/20140631/kalkulator/application/views/scripts/kalkulator"
+Sat May 31 16:19:58 2014 [pid 3] [gvasylyshyna] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/index/kalkulator/policz.phtml.new", 0.00Kbyte/sec
+Sat May 31 16:19:58 2014 [pid 3] [gvasylyshyna] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/index/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/index/kalkulator/policz.phtml"
+Sat May 31 16:19:58 2014 [pid 3] [alidwin] OK UPLOAD: Client "195.20.2.28", "/public_html/20140631/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 0.00Kbyte/sec
+Sat May 31 16:19:58 2014 [pid 3] [alidwin] OK RENAME: Client "195.20.2.28", "/public_html/20140631/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140631/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:19:58 2014 [pid 3] [gvasylyshyna] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/index/kalkulator/policz.phtml.new", 0.00Kbyte/sec
+Sat May 31 16:19:59 2014 [pid 3] [gvasylyshyna] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/index/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/index/kalkulator/policz.phtml"
+Sat May 31 16:20:07 2014 [pid 3] [pziebinski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/kalkulator/policzphtml.new", 0.00Kbyte/sec
+Sat May 31 16:20:07 2014 [pid 3] [pziebinski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/kalkulator/policzphtml.new /public_html/20140531/kalkulator/application/controllers/kalkulator/policzphtml"
+Sat May 31 16:20:07 2014 [pid 3] [pziebinski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/kalkulator/policzphtml.new", 0.00Kbyte/sec
+Sat May 31 16:20:08 2014 [pid 3] [pziebinski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/kalkulator/policzphtml.new /public_html/20140531/kalkulator/application/controllers/kalkulator/policzphtml"
+Sat May 31 16:20:09 2014 [pid 3] [20140322kphp] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 22 bytes, 0.17Kbyte/sec
+Sat May 31 16:20:09 2014 [pid 3] [20140322kphp] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:20:12 2014 [pid 3] [mkazmierczak] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 21 bytes, 0.15Kbyte/sec
+Sat May 31 16:20:12 2014 [pid 3] [mkazmierczak] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:20:19 2014 [pid 3] [akulesza] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 35 bytes, 0.15Kbyte/sec
+Sat May 31 16:20:19 2014 [pid 3] [akulesza] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:20:19 2014 [pid 3] [alidwin] OK UPLOAD: Client "195.20.2.28", "/public_html/20140631/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 21 bytes, 0.18Kbyte/sec
+Sat May 31 16:20:19 2014 [pid 3] [alidwin] OK RENAME: Client "195.20.2.28", "/public_html/20140631/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140631/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:20:22 2014 [pid 3] [arakowski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 323 bytes, 2.44Kbyte/sec
+Sat May 31 16:20:22 2014 [pid 3] [arakowski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:20:23 2014 [pid 3] [arakowski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 22 bytes, 0.23Kbyte/sec
+Sat May 31 16:20:23 2014 [pid 3] [arakowski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:20:26 2014 [pid 3] [lbozek] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 22 bytes, 0.16Kbyte/sec
+Sat May 31 16:20:26 2014 [pid 3] [lbozek] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:20:29 2014 [pid 3] [pziebinski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/kalkulator/policz.phtml.new", 0.00Kbyte/sec
+Sat May 31 16:20:29 2014 [pid 3] [pziebinski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/controllers/kalkulator/policz.phtml"
+Sat May 31 16:20:30 2014 [pid 3] [pziebinski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/kalkulator/policz.phtml.new", 0.00Kbyte/sec
+Sat May 31 16:20:30 2014 [pid 3] [pziebinski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/controllers/kalkulator/policz.phtml"
+Sat May 31 16:20:40 2014 [pid 3] [gvasylyshyna] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/index/kalkulator/policz.phtml.new", 24 bytes, 0.07Kbyte/sec
+Sat May 31 16:20:41 2014 [pid 3] [gvasylyshyna] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/index/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/index/kalkulator/policz.phtml"
+Sat May 31 16:21:23 2014 [pid 3] [pziebinski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/kalkulator/policz.phtml.new", 6 bytes, 0.03Kbyte/sec
+Sat May 31 16:21:23 2014 [pid 3] [pziebinski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/controllers/kalkulator/policz.phtml"
+Sat May 31 16:21:32 2014 [pid 3] [lbozek] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php.new", 319 bytes, 1.91Kbyte/sec
+Sat May 31 16:21:32 2014 [pid 3] [lbozek] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:21:39 2014 [pid 3] [gvasylyshyna] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/kalkulatorControler.php.new", 334 bytes, 0.33Kbyte/sec
+Sat May 31 16:21:42 2014 [pid 3] [gvasylyshyna] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/kalkulatorControler.php.new /public_html/20140531/kalkulator/application/controllers/kalkulatorControler.php"
+Sat May 31 16:21:52 2014 [pid 3] [gvasylyshyna] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/kalkulatorControler.php.new", 335 bytes, 1.45Kbyte/sec
+Sat May 31 16:21:52 2014 [pid 3] [gvasylyshyna] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/kalkulatorControler.php.new /public_html/20140531/kalkulator/application/controllers/kalkulatorControler.php"
+Sat May 31 16:22:00 2014 [pid 3] [gvasylyshyna] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorControler.php.new", 335 bytes, 1.52Kbyte/sec
+Sat May 31 16:22:00 2014 [pid 3] [gvasylyshyna] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorControler.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorControler.php"
+Sat May 31 16:22:05 2014 [pid 3] [pziebinski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 310 bytes, 2.13Kbyte/sec
+Sat May 31 16:22:06 2014 [pid 3] [pziebinski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:22:20 2014 [pid 3] [gvasylyshyna] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 24 bytes, 0.09Kbyte/sec
+Sat May 31 16:22:20 2014 [pid 3] [gvasylyshyna] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:22:21 2014 [pid 3] [gvasylyshyna] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 24 bytes, 0.12Kbyte/sec
+Sat May 31 16:22:21 2014 [pid 3] [gvasylyshyna] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:22:22 2014 [pid 3] [gvasylyshyna] OK DELETE: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/index/kalkulator/policz.phtml"
+Sat May 31 16:22:23 2014 [pid 3] [gvasylyshyna] OK RMDIR: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/index/kalkulator"
+Sat May 31 16:22:47 2014 [pid 3] [gvasylyshyna] OK DELETE: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:22:47 2014 [pid 3] [gvasylyshyna] OK RMDIR: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator"
+Sat May 31 16:22:55 2014 [pid 3] [gvasylyshyna] OK MKDIR: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator"
+Sat May 31 16:23:03 2014 [pid 3] [gvasylyshyna] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 0.00Kbyte/sec
+Sat May 31 16:23:04 2014 [pid 3] [gvasylyshyna] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:23:04 2014 [pid 3] [gvasylyshyna] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 0.00Kbyte/sec
+Sat May 31 16:23:04 2014 [pid 3] [gvasylyshyna] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:23:06 2014 [pid 3] [gvasylyshyna] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 9 bytes, 0.11Kbyte/sec
+Sat May 31 16:23:06 2014 [pid 3] [gvasylyshyna] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:23:19 2014 [pid 3] [pziebinski] OK MKDIR: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/kalkulator"
+Sat May 31 16:23:23 2014 [pid 3] [gvasylyshyna] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorControler.php.new", 336 bytes, 5.90Kbyte/sec
+Sat May 31 16:23:23 2014 [pid 3] [gvasylyshyna] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorControler.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorControler.php"
+Sat May 31 16:23:27 2014 [pid 3] [gvasylyshyna] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorControler.php /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:23:33 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 16:23:33 2014 [pid 1] [kbiskub] OK LOGIN: Client "195.20.2.28"
+Sat May 31 16:23:34 2014 [pid 3] [kbiskub] OK UPLOAD: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/application/controllers/KalkulatorController.php.new", 304 bytes, 2.36Kbyte/sec
+Sat May 31 16:23:34 2014 [pid 3] [kbiskub] OK RENAME: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/application/controllers/KalkulatorController.php.new /public_html/2014-05-31/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:23:34 2014 [pid 3] [pziebinski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/kalkulator/policz.phtml.new", 6 bytes, 0.05Kbyte/sec
+Sat May 31 16:23:34 2014 [pid 3] [pziebinski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/kalkulator/policz.phtml"
+Sat May 31 16:23:35 2014 [pid 3] [pziebinski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/kalkulator/policz.phtml.new", 6 bytes, 0.09Kbyte/sec
+Sat May 31 16:23:35 2014 [pid 3] [pziebinski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/kalkulator/policz.phtml"
+Sat May 31 16:23:35 2014 [pid 3] [pziebinski] OK DELETE: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/kalkulator/policz.phtml"
+Sat May 31 16:24:03 2014 [pid 3] [kbiskub] OK MKDIR: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/application/views/scripts/index/kalkulator"
+Sat May 31 16:24:25 2014 [pid 3] [kbiskub] OK RMDIR: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/application/views/scripts/index/kalkulator"
+Sat May 31 16:24:32 2014 [pid 3] [kbiskub] OK MKDIR: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/application/views/scripts/kalkulator"
+Sat May 31 16:24:47 2014 [pid 3] [pziebinski] OK DELETE: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/kalkulator/policzphtml"
+Sat May 31 16:24:52 2014 [pid 3] [kbiskub] OK UPLOAD: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 0.00Kbyte/sec
+Sat May 31 16:24:52 2014 [pid 3] [kbiskub] OK RENAME: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/2014-05-31/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:24:53 2014 [pid 3] [kbiskub] OK UPLOAD: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 0.00Kbyte/sec
+Sat May 31 16:24:53 2014 [pid 3] [kbiskub] OK RENAME: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/2014-05-31/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:25:00 2014 [pid 3] [kbiskub] OK UPLOAD: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 7 bytes, 0.09Kbyte/sec
+Sat May 31 16:25:00 2014 [pid 3] [kbiskub] OK RENAME: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/2014-05-31/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:25:29 2014 [pid 3] [pziebinski] OK MKDIR: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator"
+Sat May 31 16:25:29 2014 [pid 3] [pziebinski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 6 bytes, 0.08Kbyte/sec
+Sat May 31 16:25:29 2014 [pid 3] [pziebinski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:25:30 2014 [pid 3] [pziebinski] OK DELETE: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/kalkulator/policz.phtml"
+Sat May 31 16:25:30 2014 [pid 3] [pziebinski] OK RMDIR: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/kalkulator"
+Sat May 31 16:26:01 2014 [pid 3] [mkazmierczak] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 405 bytes, 4.62Kbyte/sec
+Sat May 31 16:26:01 2014 [pid 3] [mkazmierczak] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:26:40 2014 [pid 3] [20140322kphp] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 482 bytes, 0.44Kbyte/sec
+Sat May 31 16:26:42 2014 [pid 3] [20140322kphp] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:26:44 2014 [pid 3] [mkazmierczak] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 471 bytes, 2.68Kbyte/sec
+Sat May 31 16:26:44 2014 [pid 3] [mkazmierczak] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:27:03 2014 [pid 3] [mkazmierczak] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 523 bytes, 4.28Kbyte/sec
+Sat May 31 16:27:03 2014 [pid 3] [mkazmierczak] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:27:33 2014 [pid 3] [20140322kphp] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 579 bytes, 9.33Kbyte/sec
+Sat May 31 16:27:33 2014 [pid 3] [20140322kphp] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:28:14 2014 [pid 3] [20140322kphp] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 645 bytes, 7.89Kbyte/sec
+Sat May 31 16:28:14 2014 [pid 3] [20140322kphp] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:28:31 2014 [pid 3] [mkazmierczak] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 625 bytes, 0.96Kbyte/sec
+Sat May 31 16:28:31 2014 [pid 3] [mkazmierczak] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:28:35 2014 [pid 3] [mkazmierczak] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 624 bytes, 3.07Kbyte/sec
+Sat May 31 16:28:35 2014 [pid 3] [mkazmierczak] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:29:26 2014 [pid 3] [lbozek] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php.new", 631 bytes, 3.01Kbyte/sec
+Sat May 31 16:29:26 2014 [pid 3] [lbozek] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:29:27 2014 [pid 3] [20140322kphp] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 671 bytes, 4.71Kbyte/sec
+Sat May 31 16:29:27 2014 [pid 3] [20140322kphp] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:29:31 2014 [pid 3] [akulesza] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 651 bytes, 3.42Kbyte/sec
+Sat May 31 16:29:31 2014 [pid 3] [akulesza] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:29:41 2014 [pid 3] [mkazmierczak] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 670 bytes, 3.74Kbyte/sec
+Sat May 31 16:29:42 2014 [pid 3] [mkazmierczak] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:29:46 2014 [pid 3] [akulesza] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 687 bytes, 3.52Kbyte/sec
+Sat May 31 16:29:46 2014 [pid 3] [akulesza] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:30:00 2014 [pid 3] [lbozek] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php.new", 670 bytes, 4.18Kbyte/sec
+Sat May 31 16:30:00 2014 [pid 3] [lbozek] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:30:23 2014 [pid 3] [alidwin] OK UPLOAD: Client "195.20.2.28", "/public_html/20140631/kalkulator/application/controllers/KalkulatorController.php.new", 666 bytes, 2.83Kbyte/sec
+Sat May 31 16:30:24 2014 [pid 3] [alidwin] OK RENAME: Client "195.20.2.28", "/public_html/20140631/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140631/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:30:47 2014 [pid 3] [akulesza] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 783 bytes, 4.69Kbyte/sec
+Sat May 31 16:30:48 2014 [pid 3] [akulesza] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:31:11 2014 [pid 2] CONNECT: Client "195.20.2.28"
+Sat May 31 16:31:11 2014 [pid 1] [arakowski] OK LOGIN: Client "195.20.2.28"
+Sat May 31 16:31:12 2014 [pid 3] [arakowski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 654 bytes, 3.01Kbyte/sec
+Sat May 31 16:31:12 2014 [pid 3] [arakowski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:31:24 2014 [pid 3] [akulesza] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 783 bytes, 4.03Kbyte/sec
+Sat May 31 16:31:24 2014 [pid 3] [akulesza] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:31:30 2014 [pid 3] [20140322kphp] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 64 bytes, 0.46Kbyte/sec
+Sat May 31 16:31:30 2014 [pid 3] [20140322kphp] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:31:34 2014 [pid 3] [mkazmierczak] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 61 bytes, 0.37Kbyte/sec
+Sat May 31 16:31:35 2014 [pid 3] [mkazmierczak] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:32:04 2014 [pid 3] [20140322kphp] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 129 bytes, 0.92Kbyte/sec
+Sat May 31 16:32:04 2014 [pid 3] [20140322kphp] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:32:17 2014 [pid 3] [akulesza] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 108 bytes, 0.50Kbyte/sec
+Sat May 31 16:32:17 2014 [pid 3] [akulesza] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:32:31 2014 [pid 3] [mkazmierczak] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 124 bytes, 0.51Kbyte/sec
+Sat May 31 16:32:31 2014 [pid 3] [mkazmierczak] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:32:38 2014 [pid 3] [lbozek] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 118 bytes, 0.11Kbyte/sec
+Sat May 31 16:32:39 2014 [pid 3] [lbozek] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:32:45 2014 [pid 3] [akulesza] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 136 bytes, 0.62Kbyte/sec
+Sat May 31 16:32:46 2014 [pid 3] [akulesza] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:32:52 2014 [pid 3] [kbiskub] OK UPLOAD: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/application/controllers/KalkulatorController.php.new", 643 bytes, 3.36Kbyte/sec
+Sat May 31 16:32:52 2014 [pid 3] [kbiskub] OK RENAME: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/application/controllers/KalkulatorController.php.new /public_html/2014-05-31/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:32:52 2014 [pid 3] [kbiskub] OK UPLOAD: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 110 bytes, 0.61Kbyte/sec
+Sat May 31 16:32:52 2014 [pid 3] [kbiskub] OK RENAME: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/2014-05-31/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:33:53 2014 [pid 3] [arakowski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 119 bytes, 0.46Kbyte/sec
+Sat May 31 16:33:54 2014 [pid 3] [arakowski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:34:02 2014 [pid 3] [lbozek] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 118 bytes, 1.44Kbyte/sec
+Sat May 31 16:34:02 2014 [pid 3] [lbozek] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:34:25 2014 [pid 3] [kbiskub] OK UPLOAD: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/application/controllers/KalkulatorController.php.new", 644 bytes, 4.06Kbyte/sec
+Sat May 31 16:34:25 2014 [pid 3] [kbiskub] OK RENAME: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/application/controllers/KalkulatorController.php.new /public_html/2014-05-31/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:34:42 2014 [pid 3] [kbiskub] OK UPLOAD: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/application/controllers/KalkulatorController.php.new", 644 bytes, 0.79Kbyte/sec
+Sat May 31 16:34:43 2014 [pid 3] [kbiskub] OK RENAME: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/application/controllers/KalkulatorController.php.new /public_html/2014-05-31/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:35:00 2014 [pid 3] [alidwin] OK UPLOAD: Client "195.20.2.28", "/public_html/20140631/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 131 bytes, 0.77Kbyte/sec
+Sat May 31 16:35:00 2014 [pid 3] [alidwin] OK RENAME: Client "195.20.2.28", "/public_html/20140631/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140631/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:35:00 2014 [pid 3] [kbiskub] OK UPLOAD: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/application/controllers/KalkulatorController.php.new", 645 bytes, 4.87Kbyte/sec
+Sat May 31 16:35:01 2014 [pid 3] [kbiskub] OK RENAME: Client "195.20.2.28", "/public_html/2014-05-31/kalkulator/application/controllers/KalkulatorController.php.new /public_html/2014-05-31/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:35:03 2014 [pid 3] [akulesza] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 138 bytes, 0.94Kbyte/sec
+Sat May 31 16:35:03 2014 [pid 3] [akulesza] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:35:08 2014 [pid 3] [lbozek] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php.new", 671 bytes, 6.04Kbyte/sec
+Sat May 31 16:35:08 2014 [pid 3] [lbozek] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:35:43 2014 [pid 3] [arakowski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 120 bytes, 1.15Kbyte/sec
+Sat May 31 16:35:46 2014 [pid 3] [arakowski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:35:49 2014 [pid 3] [pziebinski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 617 bytes, 5.07Kbyte/sec
+Sat May 31 16:35:49 2014 [pid 3] [pziebinski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:35:54 2014 [pid 3] [pziebinski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 105 bytes, 0.84Kbyte/sec
+Sat May 31 16:35:54 2014 [pid 3] [pziebinski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:35:54 2014 [pid 3] [arakowski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 123 bytes, 0.69Kbyte/sec
+Sat May 31 16:35:54 2014 [pid 3] [arakowski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:36:17 2014 [pid 3] [arakowski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 653 bytes, 4.94Kbyte/sec
+Sat May 31 16:36:17 2014 [pid 3] [arakowski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:36:20 2014 [pid 3] [akulesza] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 139 bytes, 0.85Kbyte/sec
+Sat May 31 16:36:21 2014 [pid 3] [akulesza] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:36:53 2014 [pid 3] [akulesza] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 781 bytes, 6.01Kbyte/sec
+Sat May 31 16:36:54 2014 [pid 3] [akulesza] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:36:57 2014 [pid 3] [alidwin] OK UPLOAD: Client "195.20.2.28", "/public_html/20140631/kalkulator/application/controllers/KalkulatorController.php.new", 673 bytes, 3.37Kbyte/sec
+Sat May 31 16:36:58 2014 [pid 3] [alidwin] OK RENAME: Client "195.20.2.28", "/public_html/20140631/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140631/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:37:04 2014 [pid 3] [pziebinski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 107 bytes, 0.70Kbyte/sec
+Sat May 31 16:37:04 2014 [pid 3] [pziebinski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:37:05 2014 [pid 3] [akulesza] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 781 bytes, 5.23Kbyte/sec
+Sat May 31 16:37:05 2014 [pid 3] [akulesza] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:37:32 2014 [pid 3] [akulesza] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 139 bytes, 0.75Kbyte/sec
+Sat May 31 16:37:32 2014 [pid 3] [akulesza] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:37:52 2014 [pid 3] [akulesza] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 779 bytes, 6.50Kbyte/sec
+Sat May 31 16:37:52 2014 [pid 3] [akulesza] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:38:10 2014 [pid 3] [pziebinski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 627 bytes, 3.81Kbyte/sec
+Sat May 31 16:38:10 2014 [pid 3] [pziebinski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:38:20 2014 [pid 3] [akulesza] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 775 bytes, 3.88Kbyte/sec
+Sat May 31 16:38:20 2014 [pid 3] [akulesza] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:38:50 2014 [pid 3] [pziebinski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 630 bytes, 3.45Kbyte/sec
+Sat May 31 16:38:50 2014 [pid 3] [pziebinski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:38:51 2014 [pid 3] [akulesza] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 775 bytes, 6.89Kbyte/sec
+Sat May 31 16:38:51 2014 [pid 3] [akulesza] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:39:00 2014 [pid 3] [lbozek] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 127 bytes, 0.98Kbyte/sec
+Sat May 31 16:39:01 2014 [pid 3] [lbozek] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:39:35 2014 [pid 3] [lbozek] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php.new", 873 bytes, 5.27Kbyte/sec
+Sat May 31 16:39:35 2014 [pid 3] [lbozek] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:39:42 2014 [pid 3] [lbozek] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php.new", 675 bytes, 3.26Kbyte/sec
+Sat May 31 16:39:42 2014 [pid 3] [lbozek] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:40:24 2014 [pid 3] [lbozek] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php.new", 666 bytes, 4.51Kbyte/sec
+Sat May 31 16:40:24 2014 [pid 3] [lbozek] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:41:03 2014 [pid 3] [pziebinski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new", 631 bytes, 4.76Kbyte/sec
+Sat May 31 16:41:03 2014 [pid 3] [pziebinski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 16:42:04 2014 [pid 3] [arakowski] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new", 124 bytes, 1.10Kbyte/sec
+Sat May 31 16:42:04 2014 [pid 3] [arakowski] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml.new /public_html/20140531/kalkulator/application/views/scripts/kalkulator/policz.phtml"
+Sat May 31 16:44:53 2014 [pid 3] [lbozek] OK UPLOAD: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php.new", 671 bytes, 2.94Kbyte/sec
+Sat May 31 16:44:54 2014 [pid 3] [lbozek] OK RENAME: Client "195.20.2.28", "/public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php.new /public_html/20140531/kalkulator/kalkulator/application/controllers/KalkulatorController.php"
+Sat May 31 18:01:25 2014 [pid 2] CONNECT: Client "94.254.212.66"
+Sat May 31 18:01:30 2014 [pid 1] [pziebinski] FAIL LOGIN: Client "94.254.212.66"
+Sat May 31 18:01:35 2014 [pid 2] CONNECT: Client "94.254.212.66"
+Sat May 31 18:01:36 2014 [pid 1] [pziebinski] OK LOGIN: Client "94.254.212.66"
+Sat May 31 18:02:29 2014 [pid 3] [pziebinski] OK DOWNLOAD: Client "94.254.212.66", "/public_html/20140531/sklep/index.php", 326 bytes, 3.53Kbyte/sec

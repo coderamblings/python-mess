@@ -1,0 +1,419 @@
+<firma nazwa="Larkpol PPUH" nip="123-45-67-890">
+    <data>2015-03-14</data>
+    <miasto nazwa="Białystok">
+        <działy>
+            <dział nazwa="dział spraw trudnych">
+                <pracownicy>
+                    <pracownik pesel="1903121122504" imie="Aniela" nazwisko="Dutkowska" płeć="kobieta" dataUrodzenia="1903-12-11" />
+                    <pracownik pesel="1935120502938" imie="Bolesław" nazwisko="Janowski" płeć="mężczyzna" dataUrodzenia="1935-12-05" />
+                    <pracownik pesel="1907032846072" imie="Sylwester" nazwisko="Gołębiewski" płeć="mężczyzna" dataUrodzenia="1907-03-28" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="hr">
+                <pracownicy>
+                    <pracownik pesel="1975062829155" imie="Ferdynand" nazwisko="Iżycki" płeć="mężczyzna" dataUrodzenia="1975-06-28" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="sprzedaż">
+                <pracownicy>
+                    <pracownik pesel="1908062074919" imie="Izaak" nazwisko="Fatalski" płeć="mężczyzna" dataUrodzenia="1908-06-20" />
+                    <pracownik pesel="1919081694058" imie="Eryk" nazwisko="Jagielski" płeć="mężczyzna" dataUrodzenia="1919-08-16" />
+                </pracownicy>
+            </dział>
+        </działy>
+    </miasto>
+    <miasto nazwa="Bydgoszcz">
+        <działy>
+            <dział nazwa="dział spraw trudnych">
+                <pracownicy>
+                    <pracownik pesel="1908122575792" imie="Edmunt" nazwisko="Dendura" płeć="mężczyzna" dataUrodzenia="1908-12-25" />
+                    <pracownik pesel="1921111734090" imie="Dariusz" nazwisko="Bąk" płeć="mężczyzna" dataUrodzenia="1921-11-17" />
+                    <pracownik pesel="1944090368614" imie="Joachim" nazwisko="Jurkowski" płeć="mężczyzna" dataUrodzenia="1944-09-03" />
+                    <pracownik pesel="1936032347332" imie="Jacek" nazwisko="Drozdowski" płeć="mężczyzna" dataUrodzenia="1936-03-23" />
+                    <pracownik pesel="1910040558019" imie="Franciszek" nazwisko="Bielawski" płeć="mężczyzna" dataUrodzenia="1910-04-05" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="hr">
+                <pracownicy>
+                    <pracownik pesel="1955110294689" imie="Zofia" nazwisko="Bilska" płeć="kobieta" dataUrodzenia="1955-11-02" />
+                    <pracownik pesel="1920101920477" imie="Janusz" nazwisko="Farasiński" płeć="mężczyzna" dataUrodzenia="1920-10-19" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="obsługa klienta">
+                <pracownicy>
+                    <pracownik pesel="1990032131071" imie="Benjamin" nazwisko="Drzewiecki" płeć="mężczyzna" dataUrodzenia="1990-03-21" />
+                    <pracownik pesel="1993060648692" imie="Lech" nazwisko="Borzymowski" płeć="mężczyzna" dataUrodzenia="1993-06-06" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="reklama">
+                <pracownicy>
+                    <pracownik pesel="1965081196848" imie="Izabela" nazwisko="Figurska" płeć="kobieta" dataUrodzenia="1965-08-11" />
+                    <pracownik pesel="1933010816840" imie="Emilia" nazwisko="Balcerzak" płeć="kobieta" dataUrodzenia="1933-01-08" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="sprzedaż">
+                <pracownicy>
+                    <pracownik pesel="1975101599079" imie="Kryspin" nazwisko="Czabanowski" płeć="mężczyzna" dataUrodzenia="1975-10-15" />
+                </pracownicy>
+            </dział>
+        </działy>
+    </miasto>
+    <miasto nazwa="Bytom">
+        <działy>
+            <dział nazwa="dział spraw trudnych">
+                <pracownicy>
+                    <pracownik pesel="1948032279137" imie="Gwidon" nazwisko="Babarowski" płeć="mężczyzna" dataUrodzenia="1948-03-22" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="hr">
+                <pracownicy>
+                    <pracownik pesel="1915091669729" imie="Romualda" nazwisko="Guraj" płeć="kobieta" dataUrodzenia="1915-09-16" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="obsługa klienta">
+                <pracownicy>
+                    <pracownik pesel="1905091363801" imie="Aniela" nazwisko="Boguszewska" płeć="kobieta" dataUrodzenia="1905-09-13" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="sprzedaż">
+                <pracownicy>
+                    <pracownik pesel="1950062128160" imie="Leontyna" nazwisko="Frankowska" płeć="kobieta" dataUrodzenia="1950-06-21" />
+                    <pracownik pesel="1973062389492" imie="Benon" nazwisko="Gostkowski" płeć="mężczyzna" dataUrodzenia="1973-06-23" />
+                </pracownicy>
+            </dział>
+        </działy>
+    </miasto>
+    <miasto nazwa="Gdańsk">
+        <działy>
+            <dział nazwa="dział spraw trudnych">
+                <pracownicy>
+                    <pracownik pesel="1976010523270" imie="Filip" nazwisko="Hardej" płeć="mężczyzna" dataUrodzenia="1976-01-05" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="reklama">
+                <pracownicy>
+                    <pracownik pesel="1985052539607" imie="Amalia" nazwisko="Jasińska" płeć="kobieta" dataUrodzenia="1985-05-25" />
+                    <pracownik pesel="1992010116340" imie="Dominika" nazwisko="Filipowicz" płeć="kobieta" dataUrodzenia="1992-01-01" />
+                    <pracownik pesel="1931121843443" imie="Kama" nazwisko="Gackowska" płeć="kobieta" dataUrodzenia="1931-12-18" />
+                </pracownicy>
+            </dział>
+        </działy>
+    </miasto>
+    <miasto nazwa="Gdynia">
+        <działy>
+            <dział nazwa="dział spraw trudnych">
+                <pracownicy>
+                    <pracownik pesel="1958062967955" imie="Zbyszko" nazwisko="Czapla" płeć="mężczyzna" dataUrodzenia="1958-06-29" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="obsługa klienta">
+                <pracownicy>
+                    <pracownik pesel="1941070647675" imie="Miezczysław" nazwisko="Gaładyk" płeć="mężczyzna" dataUrodzenia="1941-07-06" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="reklama">
+                <pracownicy>
+                    <pracownik pesel="1947052884080" imie="Anna" nazwisko="Deręgowska" płeć="kobieta" dataUrodzenia="1947-05-28" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="sprzedaż">
+                <pracownicy>
+                    <pracownik pesel="1998090740173" imie="Henryk" nazwisko="Ałapin" płeć="mężczyzna" dataUrodzenia="1998-09-07" />
+                </pracownicy>
+            </dział>
+        </działy>
+    </miasto>
+    <miasto nazwa="Gliwice">
+        <działy>
+            <dział nazwa="dział spraw trudnych">
+                <pracownicy>
+                    <pracownik pesel="1980112787586" imie="Wiktoria" nazwisko="Daszkiewicz" płeć="kobieta" dataUrodzenia="1980-11-27" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="hr">
+                <pracownicy>
+                    <pracownik pesel="1938062957530" imie="Izrael" nazwisko="Artamonowicz" płeć="mężczyzna" dataUrodzenia="1938-06-29" />
+                    <pracownik pesel="1946033163746" imie="Aneta" nazwisko="Dzierżanowska" płeć="kobieta" dataUrodzenia="1946-03-31" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="reklama">
+                <pracownicy>
+                    <pracownik pesel="1924052332587" imie="Magdalena" nazwisko="Buraczyńska" płeć="kobieta" dataUrodzenia="1924-05-23" />
+                    <pracownik pesel="1902111904420" imie="Xenia" nazwisko="Ignatowicz" płeć="kobieta" dataUrodzenia="1902-11-19" />
+                    <pracownik pesel="1975062782909" imie="Alicja" nazwisko="Andrzejczyk" płeć="kobieta" dataUrodzenia="1975-06-27" />
+                </pracownicy>
+            </dział>
+        </działy>
+    </miasto>
+    <miasto nazwa="Goniądz">
+        <działy>
+            <dział nazwa="dział spraw trudnych">
+                <pracownicy>
+                    <pracownik pesel="1957122145075" imie="Hans" nazwisko="Idzikowski" płeć="mężczyzna" dataUrodzenia="1957-12-21" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="hr">
+                <pracownicy>
+                    <pracownik pesel="1998012003611" imie="Eryk" nazwisko="Gałązka" płeć="mężczyzna" dataUrodzenia="1998-01-20" />
+                    <pracownik pesel="1954082215189" imie="Rozalia" nazwisko="Hulboj" płeć="kobieta" dataUrodzenia="1954-08-22" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="obsługa klienta">
+                <pracownicy>
+                    <pracownik pesel="1954093081442" imie="Barabara" nazwisko="Ciechomska" płeć="kobieta" dataUrodzenia="1954-09-30" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="sprzedaż">
+                <pracownicy>
+                    <pracownik pesel="1939101920709" imie="Florentyna" nazwisko="Brzozowska" płeć="kobieta" dataUrodzenia="1939-10-19" />
+                </pracownicy>
+            </dział>
+        </działy>
+    </miasto>
+    <miasto nazwa="Katowice">
+        <działy>
+            <dział nazwa="dział spraw trudnych">
+                <pracownicy>
+                    <pracownik pesel="1933080504533" imie="Ryszard" nazwisko="Busz" płeć="mężczyzna" dataUrodzenia="1933-08-05" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="hr">
+                <pracownicy>
+                    <pracownik pesel="1960062053624" imie="Bernadeta" nazwisko="Bratos" płeć="kobieta" dataUrodzenia="1960-06-20" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="obsługa klienta">
+                <pracownicy>
+                    <pracownik pesel="1948082463093" imie="Henryk" nazwisko="Dziubałłon" płeć="mężczyzna" dataUrodzenia="1948-08-24" />
+                    <pracownik pesel="1987042669960" imie="Juliana" nazwisko="Gronkowska" płeć="kobieta" dataUrodzenia="1987-04-26" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="sprzedaż">
+                <pracownicy>
+                    <pracownik pesel="1973072431289" imie="Marta" nazwisko="Grelowska" płeć="kobieta" dataUrodzenia="1973-07-24" />
+                </pracownicy>
+            </dział>
+        </działy>
+    </miasto>
+    <miasto nazwa="Kraków">
+        <działy>
+            <dział nazwa="dział spraw trudnych">
+                <pracownicy>
+                    <pracownik pesel="1908022409877" imie="Bogumił" nazwisko="Godziszewski" płeć="mężczyzna" dataUrodzenia="1908-02-24" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="hr">
+                <pracownicy>
+                    <pracownik pesel="1956080892282" imie="Olga" nazwisko="Iwanejko" płeć="kobieta" dataUrodzenia="1956-08-08" />
+                    <pracownik pesel="1925082952643" imie="Sara" nazwisko="Bielecka" płeć="kobieta" dataUrodzenia="1925-08-29" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="obsługa klienta">
+                <pracownicy>
+                    <pracownik pesel="1933040381504" imie="Lidia" nazwisko="Cackowska" płeć="kobieta" dataUrodzenia="1933-04-03" />
+                    <pracownik pesel="1910071354923" imie="Rabia" nazwisko="Chmielnik" płeć="kobieta" dataUrodzenia="1910-07-13" />
+                    <pracownik pesel="1946092163225" imie="Hermina" nazwisko="Gronkiewicz" płeć="kobieta" dataUrodzenia="1946-09-21" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="reklama">
+                <pracownicy>
+                    <pracownik pesel="1971032890270" imie="Apolinary" nazwisko="Bajer" płeć="mężczyzna" dataUrodzenia="1971-03-28" />
+                    <pracownik pesel="1942010955062" imie="Alicja" nazwisko="Grzywaczewska" płeć="kobieta" dataUrodzenia="1942-01-09" />
+                    <pracownik pesel="1936120594814" imie="Sławomir" nazwisko="Bilinkiewicz" płeć="mężczyzna" dataUrodzenia="1936-12-05" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="sprzedaż">
+                <pracownicy>
+                    <pracownik pesel="1917121752304" imie="Longina" nazwisko="Drożyńska" płeć="kobieta" dataUrodzenia="1917-12-17" />
+                    <pracownik pesel="1981010206278" imie="Walerian" nazwisko="Andrzejczuk" płeć="mężczyzna" dataUrodzenia="1981-01-02" />
+                    <pracownik pesel="1960062785902" imie="Ingeborga" nazwisko="Budzyńska" płeć="kobieta" dataUrodzenia="1960-06-27" />
+                </pracownicy>
+            </dział>
+        </działy>
+    </miasto>
+    <miasto nazwa="Lublin">
+        <działy>
+            <dział nazwa="dział spraw trudnych">
+                <pracownicy>
+                    <pracownik pesel="1939021870538" imie="Bent" nazwisko="Feć" płeć="mężczyzna" dataUrodzenia="1939-02-18" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="obsługa klienta">
+                <pracownicy>
+                    <pracownik pesel="1901052871922" imie="Kornela" nazwisko="Deuar" płeć="kobieta" dataUrodzenia="1901-05-28" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="sprzedaż">
+                <pracownicy>
+                    <pracownik pesel="1950111131121" imie="Ida" nazwisko="Bałazy" płeć="kobieta" dataUrodzenia="1950-11-11" />
+                    <pracownik pesel="1929050247099" imie="Apoloniusz" nazwisko="Jaroszyński" płeć="mężczyzna" dataUrodzenia="1929-05-02" />
+                    <pracownik pesel="1990111759503" imie="Liliana" nazwisko="Dużyńska" płeć="kobieta" dataUrodzenia="1990-11-17" />
+                </pracownicy>
+            </dział>
+        </działy>
+    </miasto>
+    <miasto nazwa="Opole">
+        <działy>
+            <dział nazwa="dział spraw trudnych">
+                <pracownicy>
+                    <pracownik pesel="1983110191804" imie="Bolesława" nazwisko="Falkowska" płeć="kobieta" dataUrodzenia="1983-11-01" />
+                    <pracownik pesel="1952110109719" imie="Wiktor" nazwisko="Dubiński" płeć="mężczyzna" dataUrodzenia="1952-11-01" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="hr">
+                <pracownicy>
+                    <pracownik pesel="1940032470158" imie="Zygmund" nazwisko="Gajcy" płeć="mężczyzna" dataUrodzenia="1940-03-24" />
+                    <pracownik pesel="1986091868666" imie="Bernarda" nazwisko="Iwanicka" płeć="kobieta" dataUrodzenia="1986-09-18" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="obsługa klienta">
+                <pracownicy>
+                    <pracownik pesel="1953060368005" imie="Donata" nazwisko="Bachurska" płeć="kobieta" dataUrodzenia="1953-06-03" />
+                    <pracownik pesel="1924111728472" imie="Leopold" nazwisko="Anduszkiewicz" płeć="mężczyzna" dataUrodzenia="1924-11-17" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="reklama">
+                <pracownicy>
+                    <pracownik pesel="1987100135355" imie="Dawid" nazwisko="Arciszewski" płeć="mężczyzna" dataUrodzenia="1987-10-01" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="sprzedaż">
+                <pracownicy>
+                    <pracownik pesel="1919032733426" imie="Scholastyka" nazwisko="Grychczyńska" płeć="kobieta" dataUrodzenia="1919-03-27" />
+                </pracownicy>
+            </dział>
+        </działy>
+    </miasto>
+    <miasto nazwa="Poznań">
+        <działy>
+            <dział nazwa="dział spraw trudnych">
+                <pracownicy>
+                    <pracownik pesel="1952100448744" imie="Feliksa" nazwisko="Cieszkowska" płeć="kobieta" dataUrodzenia="1952-10-04" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="obsługa klienta">
+                <pracownicy>
+                    <pracownik pesel="1941013063456" imie="Heronim" nazwisko="Hajczuk" płeć="mężczyzna" dataUrodzenia="1941-01-30" />
+                    <pracownik pesel="1900052265404" imie="Bożena" nazwisko="Fiutkowska" płeć="kobieta" dataUrodzenia="1900-05-22" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="reklama">
+                <pracownicy>
+                    <pracownik pesel="1918113078257" imie="Konrad" nazwisko="Chrzanowski" płeć="mężczyzna" dataUrodzenia="1918-11-30" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="sprzedaż">
+                <pracownicy>
+                    <pracownik pesel="1925112251159" imie="Pantaleon" nazwisko="Juchno" płeć="mężczyzna" dataUrodzenia="1925-11-22" />
+                    <pracownik pesel="1912120391041" imie="Maja" nazwisko="Cęcelewicz" płeć="kobieta" dataUrodzenia="1912-12-03" />
+                </pracownicy>
+            </dział>
+        </działy>
+    </miasto>
+    <miasto nazwa="Płock">
+        <działy>
+            <dział nazwa="hr">
+                <pracownicy>
+                    <pracownik pesel="1929110976877" imie="Nikodem" nazwisko="Dziechciarski" płeć="mężczyzna" dataUrodzenia="1929-11-09" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="sprzedaż">
+                <pracownicy>
+                    <pracownik pesel="1998031228937" imie="Bohdan" nazwisko="Gudziński" płeć="mężczyzna" dataUrodzenia="1998-03-12" />
+                </pracownicy>
+            </dział>
+        </działy>
+    </miasto>
+    <miasto nazwa="Radom">
+        <działy>
+            <dział nazwa="dział spraw trudnych">
+                <pracownicy>
+                    <pracownik pesel="1905033062105" imie="Leonarda" nazwisko="Dominiewska" płeć="kobieta" dataUrodzenia="1905-03-30" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="hr">
+                <pracownicy>
+                    <pracownik pesel="1934032625041" imie="Julita" nazwisko="Gołaszewska" płeć="kobieta" dataUrodzenia="1934-03-26" />
+                    <pracownik pesel="1961030638601" imie="Firmina" nazwisko="Dunin" płeć="kobieta" dataUrodzenia="1961-03-06" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="sprzedaż">
+                <pracownicy>
+                    <pracownik pesel="1944081439871" imie="Armand" nazwisko="Grodziński" płeć="mężczyzna" dataUrodzenia="1944-08-14" />
+                </pracownicy>
+            </dział>
+        </działy>
+    </miasto>
+    <miasto nazwa="Sandomierz">
+        <działy>
+            <dział nazwa="dział spraw trudnych">
+                <pracownicy>
+                    <pracownik pesel="1961020291385" imie="Anna" nazwisko="Domżał" płeć="kobieta" dataUrodzenia="1961-02-02" />
+                    <pracownik pesel="1944101908025" imie="Erna" nazwisko="Dobrzycka" płeć="kobieta" dataUrodzenia="1944-10-19" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="reklama">
+                <pracownicy>
+                    <pracownik pesel="1949071791720" imie="Florentyna" nazwisko="Garwolińska" płeć="kobieta" dataUrodzenia="1949-07-17" />
+                </pracownicy>
+            </dział>
+        </działy>
+    </miasto>
+    <miasto nazwa="Toruń">
+        <działy>
+            <dział nazwa="obsługa klienta">
+                <pracownicy>
+                    <pracownik pesel="1991030779994" imie="Madeusz" nazwisko="Ciesielski" płeć="mężczyzna" dataUrodzenia="1991-03-07" />
+                    <pracownik pesel="1945051633911" imie="Igancy" nazwisko="Jackowski" płeć="mężczyzna" dataUrodzenia="1945-05-16" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="sprzedaż">
+                <pracownicy>
+                    <pracownik pesel="1952020265034" imie="Bugusław" nazwisko="Bugajski" płeć="mężczyzna" dataUrodzenia="1952-02-02" />
+                </pracownicy>
+            </dział>
+        </działy>
+    </miasto>
+    <miasto nazwa="Warszawa">
+        <działy>
+            <dział nazwa="dział spraw trudnych">
+                <pracownicy>
+                    <pracownik pesel="1918011350301" imie="Edyta" nazwisko="Adamiuk" płeć="kobieta" dataUrodzenia="1918-01-13" />
+                    <pracownik pesel="1918031450636" imie="Edmunt" nazwisko="Garbarski" płeć="mężczyzna" dataUrodzenia="1918-03-14" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="sprzedaż">
+                <pracownicy>
+                    <pracownik pesel="1993091202244" imie="Wiesława" nazwisko="Jackowska" płeć="kobieta" dataUrodzenia="1993-09-12" />
+                </pracownicy>
+            </dział>
+        </działy>
+    </miasto>
+    <miasto nazwa="Wrocław">
+        <działy>
+            <dział nazwa="dział spraw trudnych">
+                <pracownicy>
+                    <pracownik pesel="1935110806382" imie="Raissa" nazwisko="Ciechanowicz" płeć="kobieta" dataUrodzenia="1935-11-08" />
+                    <pracownik pesel="1978060284245" imie="Ludwika" nazwisko="Bożko" płeć="kobieta" dataUrodzenia="1978-06-02" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="obsługa klienta">
+                <pracownicy>
+                    <pracownik pesel="1941101549191" imie="Stanisław" nazwisko="Dobczyński" płeć="mężczyzna" dataUrodzenia="1941-10-15" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="reklama">
+                <pracownicy>
+                    <pracownik pesel="1981121088871" imie="Dominik" nazwisko="Adamski" płeć="mężczyzna" dataUrodzenia="1981-12-10" />
+                </pracownicy>
+            </dział>
+            <dział nazwa="sprzedaż">
+                <pracownicy>
+                    <pracownik pesel="1994091063364" imie="Renata" nazwisko="Czapla" płeć="kobieta" dataUrodzenia="1994-09-10" />
+                    <pracownik pesel="1915020833360" imie="Cyryla" nazwisko="Antoniewska" płeć="kobieta" dataUrodzenia="1915-02-08" />
+                    <pracownik pesel="1993053058057" imie="Kasper" nazwisko="Goźliński" płeć="mężczyzna" dataUrodzenia="1993-05-30" />
+                </pracownicy>
+            </dział>
+        </działy>
+    </miasto>
+</firma>

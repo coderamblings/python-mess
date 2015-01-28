@@ -1,0 +1,18 @@
+<towary>
+    <towar>
+        <id_towaru>13</id_towaru>
+        <cena>24</cena>
+    </towar>
+    <towar>
+        <id_towaru>17</id_towaru>
+        <cena>16</cena>
+    </towar>
+    <towar>
+        <id_towaru>25</id_towaru>
+        <cena>7</cena>
+    </towar>
+    <towar>
+        <id_towaru>11</id_towaru>
+        <cena>200</cena>
+    </towar>
+</towary>

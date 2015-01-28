@@ -1,0 +1,3729 @@
+<sprzedaż>
+    <data>2015-04-20</data>
+    <sklepy>
+        <sklep nazwa="Grychczyński" miasto="Rybnik">
+            <transakcje>
+                <transakcja>
+                    <data>2015-04-03</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>ziemniaki 5 kg</towar>
+                    <cena>7.35</cena>
+                    <ilość>6</ilość>
+                    <przychód>44.10</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-25</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca przezroczysta</towar>
+                    <cena>2.15</cena>
+                    <ilość>1</ilość>
+                    <przychód>2.15</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-26</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>okulary pływackie</towar>
+                    <cena>15.00</cena>
+                    <ilość>6</ilość>
+                    <przychód>90.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-03</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>rower młodzieżowy</towar>
+                    <cena>1455.00</cena>
+                    <ilość>2</ilość>
+                    <przychód>2910.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-29</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>rower młodzieżowy</towar>
+                    <cena>1455.00</cena>
+                    <ilość>10</ilość>
+                    <przychód>14550.00</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Jagielska" miasto="Rybnik">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-19</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>okulary pływackie</towar>
+                    <cena>15.00</cena>
+                    <ilość>7</ilość>
+                    <przychód>105.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-21</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>ziemniaki 5 kg</towar>
+                    <cena>7.35</cena>
+                    <ilość>3</ilość>
+                    <przychód>22.05</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Jabłonowska" miasto="Rybnik">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-22</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca przezroczysta</towar>
+                    <cena>2.15</cena>
+                    <ilość>8</ilość>
+                    <przychód>17.20</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-20</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>8</ilość>
+                    <przychód>20.40</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Donderski" miasto="Stargard Gdański">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-25</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>3</ilość>
+                    <przychód>7.05</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>druciak</towar>
+                    <cena>3.17</cena>
+                    <ilość>7</ilość>
+                    <przychód>22.19</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-02</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>2</ilość>
+                    <przychód>4.70</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-06</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>3</ilość>
+                    <przychód>6.75</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-30</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>hantle 1, 2 i 5 kg</towar>
+                    <cena>125.00</cena>
+                    <ilość>7</ilość>
+                    <przychód>875.00</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Dzierzbicka" miasto="Grodzisk Mazowiecki">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-31</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>9</ilość>
+                    <przychód>20.25</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-05</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>hantle 1, 2 i 5 kg</towar>
+                    <cena>125.00</cena>
+                    <ilość>5</ilość>
+                    <przychód>625.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-01</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca przezroczysta</towar>
+                    <cena>2.15</cena>
+                    <ilość>2</ilość>
+                    <przychód>4.30</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-29</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>4</ilość>
+                    <przychód>9.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-18</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>ziemniaki 5 kg</towar>
+                    <cena>7.35</cena>
+                    <ilość>5</ilość>
+                    <przychód>36.75</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-19</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>płyn do czyszczenia</towar>
+                    <cena>7.55</cena>
+                    <ilość>5</ilość>
+                    <przychód>37.75</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-31</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>ziemniaki 5 kg</towar>
+                    <cena>7.35</cena>
+                    <ilość>9</ilość>
+                    <przychód>66.15</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>10</ilość>
+                    <przychód>23.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-02</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>okulary pływackie</towar>
+                    <cena>15.00</cena>
+                    <ilość>4</ilość>
+                    <przychód>60.00</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Grzelińska" miasto="Olsztyn">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-19</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>9</ilość>
+                    <przychód>22.95</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-28</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>druciak</towar>
+                    <cena>3.17</cena>
+                    <ilość>7</ilość>
+                    <przychód>22.19</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-05</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>4</ilość>
+                    <przychód>9.40</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-19</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mleko UHT 3,5%</towar>
+                    <cena>2.25</cena>
+                    <ilość>9</ilość>
+                    <przychód>20.25</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-23</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>10</ilość>
+                    <przychód>22.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>rower młodzieżowy</towar>
+                    <cena>1455.00</cena>
+                    <ilość>6</ilość>
+                    <przychód>8730.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-21</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>hantle 1, 2 i 5 kg</towar>
+                    <cena>125.00</cena>
+                    <ilość>8</ilość>
+                    <przychód>1000.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-21</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>5</ilość>
+                    <przychód>2.25</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-04</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>hantle 1, 2 i 5 kg</towar>
+                    <cena>125.00</cena>
+                    <ilość>2</ilość>
+                    <przychód>250.00</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Gałęzowski" miasto="Olsztyn">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>ziemniaki 5 kg</towar>
+                    <cena>7.35</cena>
+                    <ilość>5</ilość>
+                    <przychód>36.75</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-30</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>rower młodzieżowy</towar>
+                    <cena>1455.00</cena>
+                    <ilość>6</ilość>
+                    <przychód>8730.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-20</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>2</ilość>
+                    <przychód>0.90</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-18</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>10</ilość>
+                    <przychód>22.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-28</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>rower młodzieżowy</towar>
+                    <cena>1455.00</cena>
+                    <ilość>2</ilość>
+                    <przychód>2910.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-19</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>płyn do czyszczenia</towar>
+                    <cena>7.55</cena>
+                    <ilość>9</ilość>
+                    <przychód>67.95</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Burzyński" miasto="Siedlce">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-25</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>druciak</towar>
+                    <cena>3.17</cena>
+                    <ilość>3</ilość>
+                    <przychód>9.51</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-02</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>płyn do czyszczenia</towar>
+                    <cena>7.55</cena>
+                    <ilość>10</ilość>
+                    <przychód>75.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-01</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>druciak</towar>
+                    <cena>3.17</cena>
+                    <ilość>1</ilość>
+                    <przychód>3.17</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-31</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>ziemniaki 5 kg</towar>
+                    <cena>7.35</cena>
+                    <ilość>10</ilość>
+                    <przychód>73.50</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Chęciński" miasto="Tarnowskie Góry">
+            <transakcje>
+                <transakcja>
+                    <data>2015-04-06</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>płyn do czyszczenia</towar>
+                    <cena>7.55</cena>
+                    <ilość>9</ilość>
+                    <przychód>67.95</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-04</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>ziemniaki 5 kg</towar>
+                    <cena>7.35</cena>
+                    <ilość>2</ilość>
+                    <przychód>14.70</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-21</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>6</ilość>
+                    <przychód>2.70</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-23</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>hantle 1, 2 i 5 kg</towar>
+                    <cena>125.00</cena>
+                    <ilość>1</ilość>
+                    <przychód>125.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-30</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>ziemniaki 5 kg</towar>
+                    <cena>7.35</cena>
+                    <ilość>1</ilość>
+                    <przychód>7.35</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-17</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>buty biegowe</towar>
+                    <cena>215.00</cena>
+                    <ilość>9</ilość>
+                    <przychód>1935.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>płyn do czyszczenia</towar>
+                    <cena>7.55</cena>
+                    <ilość>4</ilość>
+                    <przychód>30.20</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-01</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>rower młodzieżowy</towar>
+                    <cena>1455.00</cena>
+                    <ilość>6</ilość>
+                    <przychód>8730.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-18</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>hantle 1, 2 i 5 kg</towar>
+                    <cena>125.00</cena>
+                    <ilość>4</ilość>
+                    <przychód>500.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>4</ilość>
+                    <przychód>10.20</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Furdygiel" miasto="Tarnowskie Góry">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-18</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mleko UHT 3,5%</towar>
+                    <cena>2.25</cena>
+                    <ilość>8</ilość>
+                    <przychód>18.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-19</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>10</ilość>
+                    <przychód>22.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-04</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>buty biegowe</towar>
+                    <cena>215.00</cena>
+                    <ilość>1</ilość>
+                    <przychód>215.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-25</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>1</ilość>
+                    <przychód>2.35</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-25</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>płyn do czyszczenia</towar>
+                    <cena>7.55</cena>
+                    <ilość>6</ilość>
+                    <przychód>45.30</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-25</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>5</ilość>
+                    <przychód>11.75</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Hardt" miasto="Tarnowskie Góry">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-23</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>płyn do czyszczenia</towar>
+                    <cena>7.55</cena>
+                    <ilość>9</ilość>
+                    <przychód>67.95</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-20</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mleko UHT 3,5%</towar>
+                    <cena>2.25</cena>
+                    <ilość>8</ilość>
+                    <przychód>18.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-29</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>rower młodzieżowy</towar>
+                    <cena>1455.00</cena>
+                    <ilość>10</ilość>
+                    <przychód>14550.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-02</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>8</ilość>
+                    <przychód>18.80</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-19</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>8</ilość>
+                    <przychód>3.60</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>8</ilość>
+                    <przychód>20.40</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-22</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>druciak</towar>
+                    <cena>3.17</cena>
+                    <ilość>6</ilość>
+                    <przychód>19.02</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Januszewski" miasto="Augustów">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-22</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>hantle 1, 2 i 5 kg</towar>
+                    <cena>125.00</cena>
+                    <ilość>4</ilość>
+                    <przychód>500.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-02</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>ziemniaki 5 kg</towar>
+                    <cena>7.35</cena>
+                    <ilość>6</ilość>
+                    <przychód>44.10</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Gryglewski" miasto="Augustów">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-28</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>1</ilość>
+                    <przychód>2.25</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-04</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>hantle 1, 2 i 5 kg</towar>
+                    <cena>125.00</cena>
+                    <ilość>10</ilość>
+                    <przychód>1250.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-29</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>buty biegowe</towar>
+                    <cena>215.00</cena>
+                    <ilość>1</ilość>
+                    <przychód>215.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-28</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>6</ilość>
+                    <przychód>14.10</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>4</ilość>
+                    <przychód>9.40</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Imielska" miasto="Mława">
+            <transakcje>
+                <transakcja>
+                    <data>2015-04-05</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca przezroczysta</towar>
+                    <cena>2.15</cena>
+                    <ilość>1</ilość>
+                    <przychód>2.15</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-25</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>buty biegowe</towar>
+                    <cena>215.00</cena>
+                    <ilość>5</ilość>
+                    <przychód>1075.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-17</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>10</ilość>
+                    <przychód>25.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-30</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>10</ilość>
+                    <przychód>23.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-25</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>rower młodzieżowy</towar>
+                    <cena>1455.00</cena>
+                    <ilość>1</ilość>
+                    <przychód>1455.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>1</ilość>
+                    <przychód>2.35</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-29</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>8</ilość>
+                    <przychód>3.60</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-25</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>1</ilość>
+                    <przychód>2.35</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-17</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>okulary pływackie</towar>
+                    <cena>15.00</cena>
+                    <ilość>4</ilość>
+                    <przychód>60.00</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Andrzejewski" miasto="Szczytno">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-23</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>ziemniaki 5 kg</towar>
+                    <cena>7.35</cena>
+                    <ilość>4</ilość>
+                    <przychód>29.40</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-21</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>1</ilość>
+                    <przychód>2.25</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-19</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>2</ilość>
+                    <przychód>4.70</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Chilicka" miasto="Szczytno">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-25</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>10</ilość>
+                    <przychód>23.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-28</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>6</ilość>
+                    <przychód>14.10</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>okulary pływackie</towar>
+                    <cena>15.00</cena>
+                    <ilość>1</ilość>
+                    <przychód>15.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-23</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>płyn do czyszczenia</towar>
+                    <cena>7.55</cena>
+                    <ilość>10</ilość>
+                    <przychód>75.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-06</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>1</ilość>
+                    <przychód>2.55</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Garczewski" miasto="Szczytno">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>okulary pływackie</towar>
+                    <cena>15.00</cena>
+                    <ilość>4</ilość>
+                    <przychód>60.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-05</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>hantle 1, 2 i 5 kg</towar>
+                    <cena>125.00</cena>
+                    <ilość>5</ilość>
+                    <przychód>625.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-02</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>5</ilość>
+                    <przychód>2.25</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-23</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>hantle 1, 2 i 5 kg</towar>
+                    <cena>125.00</cena>
+                    <ilość>3</ilość>
+                    <przychód>375.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-20</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>druciak</towar>
+                    <cena>3.17</cena>
+                    <ilość>2</ilość>
+                    <przychód>6.34</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Bedyński" miasto="Pruszków">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-22</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>7</ilość>
+                    <przychód>3.15</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-20</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>6</ilość>
+                    <przychód>13.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-25</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>3</ilość>
+                    <przychód>1.35</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-17</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>9</ilość>
+                    <przychód>22.95</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-21</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>10</ilość>
+                    <przychód>25.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-30</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>5</ilość>
+                    <przychód>2.25</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-28</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>okulary pływackie</towar>
+                    <cena>15.00</cena>
+                    <ilość>4</ilość>
+                    <przychód>60.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-03</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>buty biegowe</towar>
+                    <cena>215.00</cena>
+                    <ilość>1</ilość>
+                    <przychód>215.00</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Czyżkowski" miasto="Pruszków">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>8</ilość>
+                    <przychód>3.60</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-30</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>7</ilość>
+                    <przychód>3.15</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-05</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>płyn do czyszczenia</towar>
+                    <cena>7.55</cena>
+                    <ilość>9</ilość>
+                    <przychód>67.95</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-20</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca przezroczysta</towar>
+                    <cena>2.15</cena>
+                    <ilość>4</ilość>
+                    <przychód>8.60</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-20</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>buty biegowe</towar>
+                    <cena>215.00</cena>
+                    <ilość>9</ilość>
+                    <przychód>1935.00</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Jesionowski" miasto="Pruszków">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-30</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mleko UHT 3,5%</towar>
+                    <cena>2.25</cena>
+                    <ilość>10</ilość>
+                    <przychód>22.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-05</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>ziemniaki 5 kg</towar>
+                    <cena>7.35</cena>
+                    <ilość>8</ilość>
+                    <przychód>58.80</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-19</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mleko UHT 3,5%</towar>
+                    <cena>2.25</cena>
+                    <ilość>3</ilość>
+                    <przychód>6.75</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-04</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>okulary pływackie</towar>
+                    <cena>15.00</cena>
+                    <ilość>5</ilość>
+                    <przychód>75.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-26</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>hantle 1, 2 i 5 kg</towar>
+                    <cena>125.00</cena>
+                    <ilość>3</ilość>
+                    <przychód>375.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-22</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>10</ilość>
+                    <przychód>25.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca przezroczysta</towar>
+                    <cena>2.15</cena>
+                    <ilość>8</ilość>
+                    <przychód>17.20</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-01</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>5</ilość>
+                    <przychód>11.75</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Dobrzyniecka" miasto="Katowice">
+            <transakcje>
+                <transakcja>
+                    <data>2015-04-02</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>8</ilość>
+                    <przychód>18.80</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-19</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>płyn do czyszczenia</towar>
+                    <cena>7.55</cena>
+                    <ilość>4</ilość>
+                    <przychód>30.20</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-30</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>rower młodzieżowy</towar>
+                    <cena>1455.00</cena>
+                    <ilość>3</ilość>
+                    <przychód>4365.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-22</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>druciak</towar>
+                    <cena>3.17</cena>
+                    <ilość>2</ilość>
+                    <przychód>6.34</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-04</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mleko UHT 3,5%</towar>
+                    <cena>2.25</cena>
+                    <ilość>9</ilość>
+                    <przychód>20.25</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-02</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>okulary pływackie</towar>
+                    <cena>15.00</cena>
+                    <ilość>10</ilość>
+                    <przychód>150.00</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Dzieciątkowski" miasto="Płock">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-19</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>okulary pływackie</towar>
+                    <cena>15.00</cena>
+                    <ilość>4</ilość>
+                    <przychód>60.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-22</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>hantle 1, 2 i 5 kg</towar>
+                    <cena>125.00</cena>
+                    <ilość>6</ilość>
+                    <przychód>750.00</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Jagodziński" miasto="Płock">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-24</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>buty biegowe</towar>
+                    <cena>215.00</cena>
+                    <ilość>6</ilość>
+                    <przychód>1290.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-06</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>6</ilość>
+                    <przychód>15.30</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-26</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>9</ilość>
+                    <przychód>4.05</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-01</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>hantle 1, 2 i 5 kg</towar>
+                    <cena>125.00</cena>
+                    <ilość>2</ilość>
+                    <przychód>250.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-04</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>płyn do czyszczenia</towar>
+                    <cena>7.55</cena>
+                    <ilość>1</ilość>
+                    <przychód>7.55</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-26</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>7</ilość>
+                    <przychód>3.15</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-17</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>ziemniaki 5 kg</towar>
+                    <cena>7.35</cena>
+                    <ilość>9</ilość>
+                    <przychód>66.15</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Bujakowski" miasto="Tychy">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-28</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>3</ilość>
+                    <przychód>1.35</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-26</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>10</ilość>
+                    <przychód>22.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-19</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mleko UHT 3,5%</towar>
+                    <cena>2.25</cena>
+                    <ilość>9</ilość>
+                    <przychód>20.25</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-31</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca przezroczysta</towar>
+                    <cena>2.15</cena>
+                    <ilość>3</ilość>
+                    <przychód>6.45</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-29</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>2</ilość>
+                    <przychód>4.70</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-30</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca przezroczysta</towar>
+                    <cena>2.15</cena>
+                    <ilość>8</ilość>
+                    <przychód>17.20</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>druciak</towar>
+                    <cena>3.17</cena>
+                    <ilość>7</ilość>
+                    <przychód>22.19</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-17</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>8</ilość>
+                    <przychód>18.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-20</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>8</ilość>
+                    <przychód>20.40</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-03</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>3</ilość>
+                    <przychód>7.65</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Bujnowska" miasto="Ostróda">
+            <transakcje>
+                <transakcja>
+                    <data>2015-04-01</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>buty biegowe</towar>
+                    <cena>215.00</cena>
+                    <ilość>10</ilość>
+                    <przychód>2150.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-24</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>druciak</towar>
+                    <cena>3.17</cena>
+                    <ilość>10</ilość>
+                    <przychód>31.70</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-06</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>2</ilość>
+                    <przychód>0.90</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-17</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>10</ilość>
+                    <przychód>23.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca przezroczysta</towar>
+                    <cena>2.15</cena>
+                    <ilość>3</ilość>
+                    <przychód>6.45</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-30</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>płyn do czyszczenia</towar>
+                    <cena>7.55</cena>
+                    <ilość>7</ilość>
+                    <przychód>52.85</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-29</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>buty biegowe</towar>
+                    <cena>215.00</cena>
+                    <ilość>1</ilość>
+                    <przychód>215.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-04</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>druciak</towar>
+                    <cena>3.17</cena>
+                    <ilość>2</ilość>
+                    <przychód>6.34</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-26</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>5</ilość>
+                    <przychód>12.75</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-02</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>druciak</towar>
+                    <cena>3.17</cena>
+                    <ilość>9</ilość>
+                    <przychód>28.53</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Bury" miasto="Ostróda">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-31</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>rower młodzieżowy</towar>
+                    <cena>1455.00</cena>
+                    <ilość>2</ilość>
+                    <przychód>2910.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-25</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>druciak</towar>
+                    <cena>3.17</cena>
+                    <ilość>10</ilość>
+                    <przychód>31.70</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-05</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>4</ilość>
+                    <przychód>9.00</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Gostkowski" miasto="Ostróda">
+            <transakcje>
+                <transakcja>
+                    <data>2015-04-03</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>płyn do czyszczenia</towar>
+                    <cena>7.55</cena>
+                    <ilość>9</ilość>
+                    <przychód>67.95</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-03</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>druciak</towar>
+                    <cena>3.17</cena>
+                    <ilość>7</ilość>
+                    <przychód>22.19</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Branicka" miasto="Tczew">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-17</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>płyn do czyszczenia</towar>
+                    <cena>7.55</cena>
+                    <ilość>4</ilość>
+                    <przychód>30.20</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-02</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>płyn do czyszczenia</towar>
+                    <cena>7.55</cena>
+                    <ilość>9</ilość>
+                    <przychód>67.95</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>ziemniaki 5 kg</towar>
+                    <cena>7.35</cena>
+                    <ilość>2</ilość>
+                    <przychód>14.70</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-29</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>4</ilość>
+                    <przychód>1.80</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-17</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>buty biegowe</towar>
+                    <cena>215.00</cena>
+                    <ilość>4</ilość>
+                    <przychód>860.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-22</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>6</ilość>
+                    <przychód>13.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-18</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>okulary pływackie</towar>
+                    <cena>15.00</cena>
+                    <ilość>10</ilość>
+                    <przychód>150.00</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Gronkowski" miasto="Tczew">
+            <transakcje>
+                <transakcja>
+                    <data>2015-04-04</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>5</ilość>
+                    <przychód>11.75</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-04</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>3</ilość>
+                    <przychód>7.65</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-22</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mleko UHT 3,5%</towar>
+                    <cena>2.25</cena>
+                    <ilość>3</ilość>
+                    <przychód>6.75</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-04</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>buty biegowe</towar>
+                    <cena>215.00</cena>
+                    <ilość>2</ilość>
+                    <przychód>430.00</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Białobrzeska" miasto="Elbląg">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-24</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>2</ilość>
+                    <przychód>4.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-26</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>rower młodzieżowy</towar>
+                    <cena>1455.00</cena>
+                    <ilość>8</ilość>
+                    <przychód>11640.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-31</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>druciak</towar>
+                    <cena>3.17</cena>
+                    <ilość>6</ilość>
+                    <przychód>19.02</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-20</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mleko UHT 3,5%</towar>
+                    <cena>2.25</cena>
+                    <ilość>6</ilość>
+                    <przychód>13.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-03</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>buty biegowe</towar>
+                    <cena>215.00</cena>
+                    <ilość>8</ilość>
+                    <przychód>1720.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-01</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>rower młodzieżowy</towar>
+                    <cena>1455.00</cena>
+                    <ilość>10</ilość>
+                    <przychód>14550.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-03</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>buty biegowe</towar>
+                    <cena>215.00</cena>
+                    <ilość>9</ilość>
+                    <przychód>1935.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-24</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>7</ilość>
+                    <przychód>17.85</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Bratkowska" miasto="Radom">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-26</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>ziemniaki 5 kg</towar>
+                    <cena>7.35</cena>
+                    <ilość>5</ilość>
+                    <przychód>36.75</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>druciak</towar>
+                    <cena>3.17</cena>
+                    <ilość>2</ilość>
+                    <przychód>6.34</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-24</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>druciak</towar>
+                    <cena>3.17</cena>
+                    <ilość>1</ilość>
+                    <przychód>3.17</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>ziemniaki 5 kg</towar>
+                    <cena>7.35</cena>
+                    <ilość>3</ilość>
+                    <przychód>22.05</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-01</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>6</ilość>
+                    <przychód>2.70</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-23</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca przezroczysta</towar>
+                    <cena>2.15</cena>
+                    <ilość>10</ilość>
+                    <przychód>21.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-22</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>5</ilość>
+                    <przychód>12.75</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-02</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>hantle 1, 2 i 5 kg</towar>
+                    <cena>125.00</cena>
+                    <ilość>4</ilość>
+                    <przychód>500.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-24</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mleko UHT 3,5%</towar>
+                    <cena>2.25</cena>
+                    <ilość>8</ilość>
+                    <przychód>18.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-31</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>2</ilość>
+                    <przychód>5.10</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Arendarski" miasto="Radom">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-17</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>druciak</towar>
+                    <cena>3.17</cena>
+                    <ilość>3</ilość>
+                    <przychód>9.51</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-18</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mleko UHT 3,5%</towar>
+                    <cena>2.25</cena>
+                    <ilość>9</ilość>
+                    <przychód>20.25</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-04</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>rower młodzieżowy</towar>
+                    <cena>1455.00</cena>
+                    <ilość>2</ilość>
+                    <przychód>2910.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-05</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>1</ilość>
+                    <przychód>2.35</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-18</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>płyn do czyszczenia</towar>
+                    <cena>7.55</cena>
+                    <ilość>9</ilość>
+                    <przychód>67.95</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Gałązki" miasto="Radom">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>ziemniaki 5 kg</towar>
+                    <cena>7.35</cena>
+                    <ilość>9</ilość>
+                    <przychód>66.15</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-04</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>9</ilość>
+                    <przychód>20.25</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-23</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>płyn do czyszczenia</towar>
+                    <cena>7.55</cena>
+                    <ilość>8</ilość>
+                    <przychód>60.40</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-20</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>rower młodzieżowy</towar>
+                    <cena>1455.00</cena>
+                    <ilość>2</ilość>
+                    <przychód>2910.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-31</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>ziemniaki 5 kg</towar>
+                    <cena>7.35</cena>
+                    <ilość>8</ilość>
+                    <przychód>58.80</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-06</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>6</ilość>
+                    <przychód>2.70</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Bieńkowski" miasto="Dąbrowa Górnicza">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-28</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>buty biegowe</towar>
+                    <cena>215.00</cena>
+                    <ilość>9</ilość>
+                    <przychód>1935.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>ziemniaki 5 kg</towar>
+                    <cena>7.35</cena>
+                    <ilość>8</ilość>
+                    <przychód>58.80</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-06</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>płyn do czyszczenia</towar>
+                    <cena>7.55</cena>
+                    <ilość>10</ilość>
+                    <przychód>75.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-03</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>8</ilość>
+                    <przychód>20.40</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-29</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>1</ilość>
+                    <przychód>2.25</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-02</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>1</ilość>
+                    <przychód>0.45</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-29</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>rower młodzieżowy</towar>
+                    <cena>1455.00</cena>
+                    <ilość>9</ilość>
+                    <przychód>13095.00</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Jędrzejek" miasto="Dąbrowa Górnicza">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-21</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mleko UHT 3,5%</towar>
+                    <cena>2.25</cena>
+                    <ilość>9</ilość>
+                    <przychód>20.25</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-21</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>7</ilość>
+                    <przychód>16.45</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-20</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>hantle 1, 2 i 5 kg</towar>
+                    <cena>125.00</cena>
+                    <ilość>6</ilość>
+                    <przychód>750.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-06</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>1</ilość>
+                    <przychód>2.25</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Domański" miasto="Dąbrowa Górnicza">
+            <transakcje>
+                <transakcja>
+                    <data>2015-04-05</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>2</ilość>
+                    <przychód>4.70</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-23</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>druciak</towar>
+                    <cena>3.17</cena>
+                    <ilość>3</ilość>
+                    <przychód>9.51</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-19</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>4</ilość>
+                    <przychód>9.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-01</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>rower młodzieżowy</towar>
+                    <cena>1455.00</cena>
+                    <ilość>9</ilość>
+                    <przychód>13095.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-30</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>płyn do czyszczenia</towar>
+                    <cena>7.55</cena>
+                    <ilość>9</ilość>
+                    <przychód>67.95</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-17</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca przezroczysta</towar>
+                    <cena>2.15</cena>
+                    <ilość>2</ilość>
+                    <przychód>4.30</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-03</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>buty biegowe</towar>
+                    <cena>215.00</cena>
+                    <ilość>7</ilość>
+                    <przychód>1505.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-03</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>8</ilość>
+                    <przychód>3.60</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-17</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mleko UHT 3,5%</towar>
+                    <cena>2.25</cena>
+                    <ilość>6</ilość>
+                    <przychód>13.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-17</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>1</ilość>
+                    <przychód>2.25</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Bachliński" miasto="Ełk">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mleko UHT 3,5%</towar>
+                    <cena>2.25</cena>
+                    <ilość>6</ilość>
+                    <przychód>13.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-31</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>płyn do czyszczenia</towar>
+                    <cena>7.55</cena>
+                    <ilość>1</ilość>
+                    <przychód>7.55</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-04</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>5</ilość>
+                    <przychód>2.25</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-31</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>rower młodzieżowy</towar>
+                    <cena>1455.00</cena>
+                    <ilość>4</ilość>
+                    <przychód>5820.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-02</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>9</ilość>
+                    <przychód>4.05</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-31</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>2</ilość>
+                    <przychód>4.70</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-05</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca przezroczysta</towar>
+                    <cena>2.15</cena>
+                    <ilość>5</ilość>
+                    <przychód>10.75</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-30</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>6</ilość>
+                    <przychód>14.10</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-21</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>rower młodzieżowy</towar>
+                    <cena>1455.00</cena>
+                    <ilość>10</ilość>
+                    <przychód>14550.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-03</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>1</ilość>
+                    <przychód>2.55</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Głowacki" miasto="Ełk">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-26</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>7</ilość>
+                    <przychód>17.85</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-04</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>druciak</towar>
+                    <cena>3.17</cena>
+                    <ilość>7</ilość>
+                    <przychód>22.19</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-06</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>druciak</towar>
+                    <cena>3.17</cena>
+                    <ilość>7</ilość>
+                    <przychód>22.19</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Dutkowski" miasto="Ełk">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-28</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>hantle 1, 2 i 5 kg</towar>
+                    <cena>125.00</cena>
+                    <ilość>5</ilość>
+                    <przychód>625.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-30</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>druciak</towar>
+                    <cena>3.17</cena>
+                    <ilość>2</ilość>
+                    <przychód>6.34</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-01</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>4</ilość>
+                    <przychód>1.80</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Gaik" miasto="Ostrołęka">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mleko UHT 3,5%</towar>
+                    <cena>2.25</cena>
+                    <ilość>10</ilość>
+                    <przychód>22.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-17</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>7</ilość>
+                    <przychód>17.85</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-06</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>druciak</towar>
+                    <cena>3.17</cena>
+                    <ilość>5</ilość>
+                    <przychód>15.85</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-23</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>buty biegowe</towar>
+                    <cena>215.00</cena>
+                    <ilość>1</ilość>
+                    <przychód>215.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>płyn do czyszczenia</towar>
+                    <cena>7.55</cena>
+                    <ilość>2</ilość>
+                    <przychód>15.10</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-03</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>buty biegowe</towar>
+                    <cena>215.00</cena>
+                    <ilość>4</ilość>
+                    <przychód>860.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-17</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>płyn do czyszczenia</towar>
+                    <cena>7.55</cena>
+                    <ilość>5</ilość>
+                    <przychód>37.75</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-18</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>3</ilość>
+                    <przychód>7.05</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-05</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca przezroczysta</towar>
+                    <cena>2.15</cena>
+                    <ilość>3</ilość>
+                    <przychód>6.45</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Guzy" miasto="Ostrołęka">
+            <transakcje>
+                <transakcja>
+                    <data>2015-04-02</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>buty biegowe</towar>
+                    <cena>215.00</cena>
+                    <ilość>6</ilość>
+                    <przychód>1290.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-30</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>2</ilość>
+                    <przychód>4.70</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-31</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>buty biegowe</towar>
+                    <cena>215.00</cena>
+                    <ilość>8</ilość>
+                    <przychód>1720.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-06</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>6</ilość>
+                    <przychód>2.70</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-29</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>hantle 1, 2 i 5 kg</towar>
+                    <cena>125.00</cena>
+                    <ilość>5</ilość>
+                    <przychód>625.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-05</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>1</ilość>
+                    <przychód>2.55</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-26</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>rower młodzieżowy</towar>
+                    <cena>1455.00</cena>
+                    <ilość>3</ilość>
+                    <przychód>4365.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-23</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>okulary pływackie</towar>
+                    <cena>15.00</cena>
+                    <ilość>2</ilość>
+                    <przychód>30.00</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Festur" miasto="Malbork">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-31</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>9</ilość>
+                    <przychód>20.25</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-25</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>7</ilość>
+                    <przychód>3.15</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Jamroz" miasto="Malbork">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-26</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>7</ilość>
+                    <przychód>15.75</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-25</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>10</ilość>
+                    <przychód>23.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-04</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>rower młodzieżowy</towar>
+                    <cena>1455.00</cena>
+                    <ilość>7</ilość>
+                    <przychód>10185.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-26</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mleko UHT 3,5%</towar>
+                    <cena>2.25</cena>
+                    <ilość>4</ilość>
+                    <przychód>9.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-02</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>płyn do czyszczenia</towar>
+                    <cena>7.55</cena>
+                    <ilość>9</ilość>
+                    <przychód>67.95</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Durda" miasto="Warszawa">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-30</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>3</ilość>
+                    <przychód>1.35</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-26</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>7</ilość>
+                    <przychód>17.85</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-04</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>hantle 1, 2 i 5 kg</towar>
+                    <cena>125.00</cena>
+                    <ilość>5</ilość>
+                    <przychód>625.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-25</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>8</ilość>
+                    <przychód>20.40</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-22</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca przezroczysta</towar>
+                    <cena>2.15</cena>
+                    <ilość>7</ilość>
+                    <przychód>15.05</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-28</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>1</ilość>
+                    <przychód>2.55</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-19</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>hantle 1, 2 i 5 kg</towar>
+                    <cena>125.00</cena>
+                    <ilość>5</ilość>
+                    <przychód>625.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-26</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>5</ilość>
+                    <przychód>12.75</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Juraszus" miasto="Warszawa">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-17</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mleko UHT 3,5%</towar>
+                    <cena>2.25</cena>
+                    <ilość>8</ilość>
+                    <przychód>18.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-26</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>7</ilość>
+                    <przychód>15.75</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-26</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>5</ilość>
+                    <przychód>11.75</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-19</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>ziemniaki 5 kg</towar>
+                    <cena>7.35</cena>
+                    <ilość>4</ilość>
+                    <przychód>29.40</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-19</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>2</ilość>
+                    <przychód>0.90</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-29</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>9</ilość>
+                    <przychód>22.95</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-31</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>rower młodzieżowy</towar>
+                    <cena>1455.00</cena>
+                    <ilość>3</ilość>
+                    <przychód>4365.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-03</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>ziemniaki 5 kg</towar>
+                    <cena>7.35</cena>
+                    <ilość>6</ilość>
+                    <przychód>44.10</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Banaszek" miasto="Warszawa">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-20</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>8</ilość>
+                    <przychód>18.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-04</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mleko UHT 3,5%</towar>
+                    <cena>2.25</cena>
+                    <ilość>4</ilość>
+                    <przychód>9.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-30</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>płyn do czyszczenia</towar>
+                    <cena>7.55</cena>
+                    <ilość>8</ilość>
+                    <przychód>60.40</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-19</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>8</ilość>
+                    <przychód>20.40</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-05</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>okulary pływackie</towar>
+                    <cena>15.00</cena>
+                    <ilość>4</ilość>
+                    <przychód>60.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-03</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>okulary pływackie</towar>
+                    <cena>15.00</cena>
+                    <ilość>10</ilość>
+                    <przychód>150.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-28</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>rower młodzieżowy</towar>
+                    <cena>1455.00</cena>
+                    <ilość>10</ilość>
+                    <przychód>14550.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-28</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca przezroczysta</towar>
+                    <cena>2.15</cena>
+                    <ilość>3</ilość>
+                    <przychód>6.45</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-30</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mleko UHT 3,5%</towar>
+                    <cena>2.25</cena>
+                    <ilość>9</ilość>
+                    <przychód>20.25</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-29</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>okulary pływackie</towar>
+                    <cena>15.00</cena>
+                    <ilość>6</ilość>
+                    <przychód>90.00</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Dutkowska" miasto="Częstochowa">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-26</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>hantle 1, 2 i 5 kg</towar>
+                    <cena>125.00</cena>
+                    <ilość>3</ilość>
+                    <przychód>375.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-02</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>druciak</towar>
+                    <cena>3.17</cena>
+                    <ilość>7</ilość>
+                    <przychód>22.19</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-24</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>6</ilość>
+                    <przychód>14.10</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-31</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>2</ilość>
+                    <przychód>0.90</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-21</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca przezroczysta</towar>
+                    <cena>2.15</cena>
+                    <ilość>9</ilość>
+                    <przychód>19.35</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Całkowska" miasto="Zawiercie">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-17</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca przezroczysta</towar>
+                    <cena>2.15</cena>
+                    <ilość>3</ilość>
+                    <przychód>6.45</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-05</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mleko UHT 3,5%</towar>
+                    <cena>2.25</cena>
+                    <ilość>2</ilość>
+                    <przychód>4.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-30</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca przezroczysta</towar>
+                    <cena>2.15</cena>
+                    <ilość>6</ilość>
+                    <przychód>12.90</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-05</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>1</ilość>
+                    <przychód>0.45</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-04</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>10</ilość>
+                    <przychód>22.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>hantle 1, 2 i 5 kg</towar>
+                    <cena>125.00</cena>
+                    <ilość>10</ilość>
+                    <przychód>1250.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-05</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>4</ilość>
+                    <przychód>9.40</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-19</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>druciak</towar>
+                    <cena>3.17</cena>
+                    <ilość>3</ilość>
+                    <przychód>9.51</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Chełchowski" miasto="Zawiercie">
+            <transakcje>
+                <transakcja>
+                    <data>2015-04-02</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>5</ilość>
+                    <przychód>11.75</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-24</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>hantle 1, 2 i 5 kg</towar>
+                    <cena>125.00</cena>
+                    <ilość>7</ilość>
+                    <przychód>875.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-18</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>5</ilość>
+                    <przychód>11.75</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-18</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mleko UHT 3,5%</towar>
+                    <cena>2.25</cena>
+                    <ilość>3</ilość>
+                    <przychód>6.75</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-02</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>ziemniaki 5 kg</towar>
+                    <cena>7.35</cena>
+                    <ilość>10</ilość>
+                    <przychód>73.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-20</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>ziemniaki 5 kg</towar>
+                    <cena>7.35</cena>
+                    <ilość>4</ilość>
+                    <przychód>29.40</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-03</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>ziemniaki 5 kg</towar>
+                    <cena>7.35</cena>
+                    <ilość>1</ilość>
+                    <przychód>7.35</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-29</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>4</ilość>
+                    <przychód>1.80</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-03</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>hantle 1, 2 i 5 kg</towar>
+                    <cena>125.00</cena>
+                    <ilość>4</ilość>
+                    <przychód>500.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-24</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>7</ilość>
+                    <przychód>16.45</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Janicka" miasto="Sosnowiec">
+            <transakcje>
+                <transakcja>
+                    <data>2015-04-05</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>ziemniaki 5 kg</towar>
+                    <cena>7.35</cena>
+                    <ilość>8</ilość>
+                    <przychód>58.80</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-05</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>hantle 1, 2 i 5 kg</towar>
+                    <cena>125.00</cena>
+                    <ilość>9</ilość>
+                    <przychód>1125.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-28</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>płyn do czyszczenia</towar>
+                    <cena>7.55</cena>
+                    <ilość>1</ilość>
+                    <przychód>7.55</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-26</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>okulary pływackie</towar>
+                    <cena>15.00</cena>
+                    <ilość>4</ilość>
+                    <przychód>60.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-04</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca przezroczysta</towar>
+                    <cena>2.15</cena>
+                    <ilość>2</ilość>
+                    <przychód>4.30</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-31</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>1</ilość>
+                    <przychód>2.55</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-29</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca przezroczysta</towar>
+                    <cena>2.15</cena>
+                    <ilość>5</ilość>
+                    <przychód>10.75</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-26</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>rower młodzieżowy</towar>
+                    <cena>1455.00</cena>
+                    <ilość>6</ilość>
+                    <przychód>8730.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-19</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>2</ilość>
+                    <przychód>4.70</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-21</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>5</ilość>
+                    <przychód>11.25</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Dobrogojska" miasto="Sosnowiec">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-28</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>1</ilość>
+                    <przychód>2.55</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-05</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mleko UHT 3,5%</towar>
+                    <cena>2.25</cena>
+                    <ilość>2</ilość>
+                    <przychód>4.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-29</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca przezroczysta</towar>
+                    <cena>2.15</cena>
+                    <ilość>4</ilość>
+                    <przychód>8.60</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-30</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>buty biegowe</towar>
+                    <cena>215.00</cena>
+                    <ilość>7</ilość>
+                    <przychód>1505.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-29</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>8</ilość>
+                    <przychód>18.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-21</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>5</ilość>
+                    <przychód>11.75</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mleko UHT 3,5%</towar>
+                    <cena>2.25</cena>
+                    <ilość>3</ilość>
+                    <przychód>6.75</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-26</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>3</ilość>
+                    <przychód>7.05</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-23</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca przezroczysta</towar>
+                    <cena>2.15</cena>
+                    <ilość>8</ilość>
+                    <przychód>17.20</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Dimmich" miasto="Giżycko">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-28</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>buty biegowe</towar>
+                    <cena>215.00</cena>
+                    <ilość>3</ilość>
+                    <przychód>645.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-22</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>buty biegowe</towar>
+                    <cena>215.00</cena>
+                    <ilość>1</ilość>
+                    <przychód>215.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-01</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>8</ilość>
+                    <przychód>18.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-26</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>hantle 1, 2 i 5 kg</towar>
+                    <cena>125.00</cena>
+                    <ilość>5</ilość>
+                    <przychód>625.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-21</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>okulary pływackie</towar>
+                    <cena>15.00</cena>
+                    <ilość>6</ilość>
+                    <przychód>90.00</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Dziewulska" miasto="Giżycko">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-17</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>1</ilość>
+                    <przychód>0.45</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-20</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>ziemniaki 5 kg</towar>
+                    <cena>7.35</cena>
+                    <ilość>4</ilość>
+                    <przychód>29.40</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-02</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>hantle 1, 2 i 5 kg</towar>
+                    <cena>125.00</cena>
+                    <ilość>8</ilość>
+                    <przychód>1000.00</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Brzostowska" miasto="Giżycko">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-22</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>9</ilość>
+                    <przychód>21.15</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-31</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca przezroczysta</towar>
+                    <cena>2.15</cena>
+                    <ilość>1</ilość>
+                    <przychód>2.15</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-05</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>7</ilość>
+                    <przychód>17.85</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-30</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca przezroczysta</towar>
+                    <cena>2.15</cena>
+                    <ilość>6</ilość>
+                    <przychód>12.90</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-30</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>2</ilość>
+                    <przychód>4.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-19</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>płyn do czyszczenia</towar>
+                    <cena>7.55</cena>
+                    <ilość>9</ilość>
+                    <przychód>67.95</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-26</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>hantle 1, 2 i 5 kg</towar>
+                    <cena>125.00</cena>
+                    <ilość>5</ilość>
+                    <przychód>625.00</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Fejkowska" miasto="Łomża">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-28</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>rower młodzieżowy</towar>
+                    <cena>1455.00</cena>
+                    <ilość>10</ilość>
+                    <przychód>14550.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-06</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mleko UHT 3,5%</towar>
+                    <cena>2.25</cena>
+                    <ilość>5</ilość>
+                    <przychód>11.25</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-31</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>ziemniaki 5 kg</towar>
+                    <cena>7.35</cena>
+                    <ilość>7</ilość>
+                    <przychód>51.45</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-22</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>druciak</towar>
+                    <cena>3.17</cena>
+                    <ilość>4</ilość>
+                    <przychód>12.68</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-28</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>płyn do czyszczenia</towar>
+                    <cena>7.55</cena>
+                    <ilość>8</ilość>
+                    <przychód>60.40</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Drabikowska" miasto="Łomża">
+            <transakcje>
+                <transakcja>
+                    <data>2015-04-06</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>4</ilość>
+                    <przychód>9.40</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-29</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca przezroczysta</towar>
+                    <cena>2.15</cena>
+                    <ilość>3</ilość>
+                    <przychód>6.45</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-06</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>buty biegowe</towar>
+                    <cena>215.00</cena>
+                    <ilość>9</ilość>
+                    <przychód>1935.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-21</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>3</ilość>
+                    <przychód>1.35</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-30</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>płyn do czyszczenia</towar>
+                    <cena>7.55</cena>
+                    <ilość>9</ilość>
+                    <przychód>67.95</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-23</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>1</ilość>
+                    <przychód>2.35</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-29</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>rower młodzieżowy</towar>
+                    <cena>1455.00</cena>
+                    <ilość>8</ilość>
+                    <przychód>11640.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-06</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca przezroczysta</towar>
+                    <cena>2.15</cena>
+                    <ilość>5</ilość>
+                    <przychód>10.75</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Bagiński" miasto="Bytom">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>rower młodzieżowy</towar>
+                    <cena>1455.00</cena>
+                    <ilość>3</ilość>
+                    <przychód>4365.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-30</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>druciak</towar>
+                    <cena>3.17</cena>
+                    <ilość>2</ilość>
+                    <przychód>6.34</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-18</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>6</ilość>
+                    <przychód>13.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-30</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca przezroczysta</towar>
+                    <cena>2.15</cena>
+                    <ilość>4</ilość>
+                    <przychód>8.60</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-30</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca przezroczysta</towar>
+                    <cena>2.15</cena>
+                    <ilość>9</ilość>
+                    <przychód>19.35</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Bieniek" miasto="Bytom">
+            <transakcje>
+                <transakcja>
+                    <data>2015-04-04</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>hantle 1, 2 i 5 kg</towar>
+                    <cena>125.00</cena>
+                    <ilość>8</ilość>
+                    <przychód>1000.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-17</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>buty biegowe</towar>
+                    <cena>215.00</cena>
+                    <ilość>4</ilość>
+                    <przychód>860.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mleko UHT 3,5%</towar>
+                    <cena>2.25</cena>
+                    <ilość>2</ilość>
+                    <przychód>4.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-26</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca przezroczysta</towar>
+                    <cena>2.15</cena>
+                    <ilość>6</ilość>
+                    <przychód>12.90</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-19</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>10</ilość>
+                    <przychód>22.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-20</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>hantle 1, 2 i 5 kg</towar>
+                    <cena>125.00</cena>
+                    <ilość>10</ilość>
+                    <przychód>1250.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-05</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>3</ilość>
+                    <przychód>6.75</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-30</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>7</ilość>
+                    <przychód>16.45</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Ilnicki" miasto="Zabrze">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-20</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>ziemniaki 5 kg</towar>
+                    <cena>7.35</cena>
+                    <ilość>6</ilość>
+                    <przychód>44.10</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-06</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>3</ilość>
+                    <przychód>6.75</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-04</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>buty biegowe</towar>
+                    <cena>215.00</cena>
+                    <ilość>8</ilość>
+                    <przychód>1720.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-06</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>2</ilość>
+                    <przychód>4.70</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-26</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>6</ilość>
+                    <przychód>14.10</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-04</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca przezroczysta</towar>
+                    <cena>2.15</cena>
+                    <ilość>4</ilość>
+                    <przychód>8.60</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-24</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>rower młodzieżowy</towar>
+                    <cena>1455.00</cena>
+                    <ilość>10</ilość>
+                    <przychód>14550.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-28</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>10</ilość>
+                    <przychód>4.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-22</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>okulary pływackie</towar>
+                    <cena>15.00</cena>
+                    <ilość>4</ilość>
+                    <przychód>60.00</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Binkowski" miasto="Zabrze">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-21</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>okulary pływackie</towar>
+                    <cena>15.00</cena>
+                    <ilość>4</ilość>
+                    <przychód>60.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-25</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>10</ilość>
+                    <przychód>25.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-29</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>1</ilość>
+                    <przychód>2.25</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca przezroczysta</towar>
+                    <cena>2.15</cena>
+                    <ilość>4</ilość>
+                    <przychód>8.60</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-31</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>4</ilość>
+                    <przychód>1.80</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-04</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mleko UHT 3,5%</towar>
+                    <cena>2.25</cena>
+                    <ilość>10</ilość>
+                    <przychód>22.50</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Bogusławski" miasto="Zabrze">
+            <transakcje>
+                <transakcja>
+                    <data>2015-04-01</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca przezroczysta</towar>
+                    <cena>2.15</cena>
+                    <ilość>8</ilość>
+                    <przychód>17.20</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-19</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>druciak</towar>
+                    <cena>3.17</cena>
+                    <ilość>7</ilość>
+                    <przychód>22.19</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-29</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>1</ilość>
+                    <przychód>2.35</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Darski" miasto="Słupsk">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-25</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>ziemniaki 5 kg</towar>
+                    <cena>7.35</cena>
+                    <ilość>8</ilość>
+                    <przychód>58.80</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-24</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>płyn do czyszczenia</towar>
+                    <cena>7.55</cena>
+                    <ilość>1</ilość>
+                    <przychód>7.55</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-24</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>7</ilość>
+                    <przychód>3.15</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-28</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>druciak</towar>
+                    <cena>3.17</cena>
+                    <ilość>1</ilość>
+                    <przychód>3.17</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Biesiada" miasto="Słupsk">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-20</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>druciak</towar>
+                    <cena>3.17</cena>
+                    <ilość>1</ilość>
+                    <przychód>3.17</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-29</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>8</ilość>
+                    <przychód>20.40</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-03</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>5</ilość>
+                    <przychód>11.25</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-22</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>rower młodzieżowy</towar>
+                    <cena>1455.00</cena>
+                    <ilość>4</ilość>
+                    <przychód>5820.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-30</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>okulary pływackie</towar>
+                    <cena>15.00</cena>
+                    <ilość>6</ilość>
+                    <przychód>90.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-03</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>buty biegowe</towar>
+                    <cena>215.00</cena>
+                    <ilość>1</ilość>
+                    <przychód>215.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-25</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>hantle 1, 2 i 5 kg</towar>
+                    <cena>125.00</cena>
+                    <ilość>9</ilość>
+                    <przychód>1125.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>2</ilość>
+                    <przychód>0.90</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-23</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>ziemniaki 5 kg</towar>
+                    <cena>7.35</cena>
+                    <ilość>1</ilość>
+                    <przychód>7.35</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-04</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>1</ilość>
+                    <przychód>2.25</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Białecka" miasto="Słupsk">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-21</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>hantle 1, 2 i 5 kg</towar>
+                    <cena>125.00</cena>
+                    <ilość>2</ilość>
+                    <przychód>250.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-24</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>7</ilość>
+                    <przychód>15.75</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-17</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>okulary pływackie</towar>
+                    <cena>15.00</cena>
+                    <ilość>9</ilość>
+                    <przychód>135.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mleko UHT 3,5%</towar>
+                    <cena>2.25</cena>
+                    <ilość>9</ilość>
+                    <przychód>20.25</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-02</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>płyn do czyszczenia</towar>
+                    <cena>7.55</cena>
+                    <ilość>7</ilość>
+                    <przychód>52.85</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-19</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>druciak</towar>
+                    <cena>3.17</cena>
+                    <ilość>10</ilość>
+                    <przychód>31.70</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-26</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>ziemniaki 5 kg</towar>
+                    <cena>7.35</cena>
+                    <ilość>7</ilość>
+                    <przychód>51.45</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-23</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>2</ilość>
+                    <przychód>4.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-28</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mleko UHT 3,5%</towar>
+                    <cena>2.25</cena>
+                    <ilość>10</ilość>
+                    <przychód>22.50</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Białecki" miasto="Białystok">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-19</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>5</ilość>
+                    <przychód>11.75</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-29</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>hantle 1, 2 i 5 kg</towar>
+                    <cena>125.00</cena>
+                    <ilość>9</ilość>
+                    <przychód>1125.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>rower młodzieżowy</towar>
+                    <cena>1455.00</cena>
+                    <ilość>4</ilość>
+                    <przychód>5820.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>ziemniaki 5 kg</towar>
+                    <cena>7.35</cena>
+                    <ilość>4</ilość>
+                    <przychód>29.40</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-22</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>buty biegowe</towar>
+                    <cena>215.00</cena>
+                    <ilość>10</ilość>
+                    <przychód>2150.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-06</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>ziemniaki 5 kg</towar>
+                    <cena>7.35</cena>
+                    <ilość>6</ilość>
+                    <przychód>44.10</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-19</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mleko UHT 3,5%</towar>
+                    <cena>2.25</cena>
+                    <ilość>5</ilość>
+                    <przychód>11.25</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-26</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>płyn do czyszczenia</towar>
+                    <cena>7.55</cena>
+                    <ilość>8</ilość>
+                    <przychód>60.40</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Figurska" miasto="Białystok">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-24</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mleko UHT 3,5%</towar>
+                    <cena>2.25</cena>
+                    <ilość>4</ilość>
+                    <przychód>9.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-20</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>1</ilość>
+                    <przychód>2.55</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-21</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>druciak</towar>
+                    <cena>3.17</cena>
+                    <ilość>9</ilość>
+                    <przychód>28.53</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-05</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>9</ilość>
+                    <przychód>20.25</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-29</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mleko UHT 3,5%</towar>
+                    <cena>2.25</cena>
+                    <ilość>10</ilość>
+                    <przychód>22.50</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-23</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>8</ilość>
+                    <przychód>3.60</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-01</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>1</ilość>
+                    <przychód>0.45</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-20</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>klej szkolny</towar>
+                    <cena>2.55</cena>
+                    <ilość>6</ilość>
+                    <przychód>15.30</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mleko UHT 3,5%</towar>
+                    <cena>2.25</cena>
+                    <ilość>1</ilość>
+                    <przychód>2.25</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+        <sklep nazwa="Antoszewska" miasto="Białystok">
+            <transakcje>
+                <transakcja>
+                    <data>2015-03-18</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>szmatka flanelowa</towar>
+                    <cena>0.45</cena>
+                    <ilość>8</ilość>
+                    <przychód>3.60</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-26</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>hantle 1, 2 i 5 kg</towar>
+                    <cena>125.00</cena>
+                    <ilość>4</ilość>
+                    <przychód>500.00</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-25</data>
+                    <kategoria>szkolno-biurowe</kategoria>
+                    <towar>taśma klejąca żółta</towar>
+                    <cena>2.35</cena>
+                    <ilość>2</ilość>
+                    <przychód>4.70</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-22</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mleko UHT 3,5%</towar>
+                    <cena>2.25</cena>
+                    <ilość>9</ilość>
+                    <przychód>20.25</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mąka 1 kg</towar>
+                    <cena>2.25</cena>
+                    <ilość>5</ilość>
+                    <przychód>11.25</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-04-02</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>płyn do czyszczenia</towar>
+                    <cena>7.55</cena>
+                    <ilość>7</ilość>
+                    <przychód>52.85</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-27</data>
+                    <kategoria>spożywcze</kategoria>
+                    <towar>mleko UHT 3,5%</towar>
+                    <cena>2.25</cena>
+                    <ilość>7</ilość>
+                    <przychód>15.75</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-24</data>
+                    <kategoria>AGD</kategoria>
+                    <towar>druciak</towar>
+                    <cena>3.17</cena>
+                    <ilość>7</ilość>
+                    <przychód>22.19</przychód>
+                </transakcja>
+                <transakcja>
+                    <data>2015-03-19</data>
+                    <kategoria>sportowe</kategoria>
+                    <towar>okulary pływackie</towar>
+                    <cena>15.00</cena>
+                    <ilość>9</ilość>
+                    <przychód>135.00</przychód>
+                </transakcja>
+            </transakcje>
+        </sklep>
+    </sklepy>
+</sprzedaż>
